@@ -1,0 +1,28 @@
+{
+  "name": "swiggy_clone",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/hemant-kushwaha/Swiggy_Clone#readme",
+  "bugs": {
+    "url": "https://github.com/hemant-kushwaha/Swiggy_Clone/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemant-kushwaha/Swiggy_Clone.git"
+  },
+  "license": "ISC",
+  "author": "Hemant Kushwaha",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}

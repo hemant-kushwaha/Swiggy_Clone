@@ -1,0 +1,1 @@
+console.log("Project setup completed with parcel");
