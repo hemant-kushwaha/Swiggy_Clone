@@ -8,8 +8,8 @@ export default function Header () {
                  <nav className="text-white text-base font-bold flex gap-10 items-center">
                     <a target="_blank" href="https://www.swiggy.com/corporate/">Swiggy Corporate</a>
                     <a target="_blank" href="https://partner.swiggy.com/login#/swiggy">Partner with us</a>
-                    <a target="_blank" href="" className="border border-white px-4 py-3 rounded-xl">Get the App</a>
-                    <a target="_blank" href="" className="border border-black bg-black px-4 py-3 rounded-xl">Sign in</a>
+                    <a target="_blank" href="" className="border border-white px-4 py-3 rounded-2xl">Get the App</a>
+                    <a target="_blank" href="" className="border border-black bg-black px-4 py-3 rounded-2xl">Sign in</a>
                  </nav>
             </div>
 
