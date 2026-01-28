@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client"
 import HomePage from "./src/pages/HomePage";
 import RestaurantPage from "./src/pages/RestaurantPage";
 import {  BrowserRouter, Routes, Route } from "react-router";
-import RestaurantMenu from "./src/components/Restaurants/RestaurantMenu";
+import MenuPage from "./src/pages/MenuPage";
 
 function App () {
     return(
@@ -12,7 +12,7 @@ function App () {
         <Routes>
             <Route path="/" element={<HomePage></HomePage>}></Route>
             <Route path="/restaurant" element={<RestaurantPage></RestaurantPage>}></Route>
-            <Route path="/city/delhi/:id" element={<RestaurantMenu></RestaurantMenu>}></Route>
+            <Route path="/city/lucknow/:id" element={<MenuPage></MenuPage>}></Route>
         </Routes>
         </BrowserRouter>
         </>

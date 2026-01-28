@@ -1,9 +1,10 @@
+import { Link } from "react-router";
+
 export default  function RestaurantCard ({restInfo}) {
     return(
+        <Link to={"/city/lucknow/"+restInfo?.info?.id}>
         <div className="max-w-70 mb-2 transition-all duration-300 hover:scale-[95%] hover:shadow-lg">
-          <a href={restInfo?.cta?.link}>
-            <img className="w-70 h-45 object-cover rounded-2xl" src={"https://media-assets.swiggy.com/swiggy/image/upload/" + restInfo?.info?.cloudinaryImageId} alt="" />
-           </a>
+          <img className="w-70 h-45 object-cover rounded-2xl" src={"https://media-assets.swiggy.com/swiggy/image/upload/" + restInfo?.info?.cloudinaryImageId} alt="" />           
          <div className="w-[95%] mx-auto mt-4">
            <h2 className="font-bold text-xl">{ restInfo?.info?.name}</h2>
            <div className="flex gap-2 items-center">
@@ -17,6 +18,7 @@ export default  function RestaurantCard ({restInfo}) {
           </div>
 
         </div>
+        </Link>
     )
 }
 
