@@ -5,6 +5,8 @@ import MenuCard from "./MenuCard";
 export default function RestaurantMenu (){
     let {id} = useParams();
     const[RestData, setRestData] = useState([])
+    const [selected,setSelected] = useState(null)
+
 
       useEffect(()=>{
         async function fetchData() {
@@ -21,13 +23,17 @@ export default function RestaurantMenu (){
 
     console.log(RestData)
     return(
-        <>
+        <div>      
+            <div className="w-[80%] mt-20 mb-10 mx-auto">
+               <button className={`text-xl px-4 py-2 mr-2 rounded-lg border ${selected === "veg"? "bg-green-400" :"bg-gray-300" }`} onClick={()=> setSelected(selected === "veg"?null:"veg")} >Veg</button>
+               <button className={`text-xl px-4 py-2 rounded-lg border ${selected === "Nonveg"? "bg-red-500":"bg-gray-300" }`} onClick={()=> setSelected(selected === "Nonveg"?null:"Nonveg")}>Non Veg</button>
+            </div>    
         <div className="w-[80%] mx-auto">
             {
-                RestData?.map((menuItems,i)=><MenuCard key={menuItems?.card?.card?.title} menuItems={menuItems?.card?.card}></MenuCard>)
+                RestData?.map((menuItems,i)=><MenuCard key={menuItems?.card?.card?.title} menuItems={menuItems?.card?.card} foodSelected={selected}></MenuCard>)
             }
         </div>
-        </>
+        </div>
     )
 }
 
