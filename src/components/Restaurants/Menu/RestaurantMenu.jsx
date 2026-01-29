@@ -1,4 +1,4 @@
-import { useParams } from "react-router";
+import { useParams ,Link } from "react-router";
 import { useState ,useEffect} from "react";
 import MenuCard from "./MenuCard";
 
@@ -23,7 +23,13 @@ export default function RestaurantMenu (){
 
     console.log(RestData)
     return(
-        <div>      
+        <div> 
+                
+            <div className="w-[80%] mt-20 mx-auto">
+                <Link to={`/city/lucknow/${id}/search`}>
+                <p className="w-full text-center py-4 rounded-2xl bg-gray-200 text-2xl">Search Your Dishes Here</p>
+                </Link>
+            </div> 
             <div className="w-[80%] mt-20 mb-10 mx-auto">
                <button className={`text-xl px-4 py-2 mr-2 rounded-lg border ${selected === "veg"? "bg-green-400" :"bg-gray-300" }`} onClick={()=> setSelected(selected === "veg"?null:"veg")} >Veg</button>
                <button className={`text-xl px-4 py-2 rounded-lg border ${selected === "Nonveg"? "bg-red-500":"bg-gray-300" }`} onClick={()=> setSelected(selected === "Nonveg"?null:"Nonveg")}>Non Veg</button>
