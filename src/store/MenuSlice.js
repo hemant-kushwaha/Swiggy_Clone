@@ -1,0 +1,45 @@
+import { createAsyncThunk, createSlice} from "@reduxjs/toolkit";
+// import {rejectWithValue} from"
+
+
+const menuDataFetch = createAsyncThunk( 'menu/fetch',
+    async (args,thunkAPI)=>{
+
+        try{
+            const proxyServer= "http://localhost:8080/"
+            const swiggyAPI = `https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=${args}`
+            const response = await fetch(proxyServer+swiggyAPI);
+            const data = await response.json();
+            const tempData = data?.data?.cards[5]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
+            const filterData = tempData.filter(  (items) => items?.card?.card?.title &&  !items?.card?.card?.carousel);
+
+            return filterData;
+        }
+        catch(error){
+            return thunkAPI.rejectWithValue(error)
+        }
+})
+
+const menuData = createSlice({
+    name:"menuSlice", 
+    initialState:{data:[],loading:false, error:null},
+    reducers:{},
+    extraReducers:(builder)=>{
+        builder.addCase(menuDataFetch.pending,(state)=>{
+            state.loading=true;
+            state.error = null;
+        })
+        .addCase(menuDataFetch.fulfilled,(state,action)=>{
+            state.data=action.payload;
+            state.loading = false;
+        })
+        .addCase(menuDataFetch.rejected,(state,action)=>{
+            state.error=action.payload;
+            state.loading = false;
+        })
+    }
+})
+
+export default menuData.reducer;
+
+export {menuDataFetch};

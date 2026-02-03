@@ -1,6 +1,8 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router"
 import ItemCard from "./ItemCard";
+import {menuDataFetch} from "../../../store/MenuSlice"
+import { useDispatch, useSelector } from "react-redux";
 
 export default function SearchFood (){
 
@@ -8,17 +10,23 @@ export default function SearchFood (){
     const[food,setFood] = useState("");
     const[RestData, setRestData] = useState([])
 
+    const dispatch = useDispatch();
+    const {data,loading,error}=useSelector((state)=>state.menuSlice)
+
 
       useEffect(()=>{
-            async function fetchData() {
-            const proxyServer= "http://localhost:8080/"
-            const swiggyAPI = `https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=${id}`
-            const response = await fetch(proxyServer+swiggyAPI)      
-            const data = await response.json();
-            const tempData = data?.data?.cards[5]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
-            const filterData = tempData.filter(  (items) => items?.card?.card?.title &&  !items?.card?.card?.carousel);
 
-            //All Unique itemCards
+        if(food.length>1){
+                dispatch(menuDataFetch(id));
+            } else {
+            //  Clear items when input empty or 1 character
+             setRestData([]);
+            }
+        
+
+        const filterData = data;
+
+         //All Unique itemCards
             const allItemCards = [];
             filterData.forEach((items) => {
                 //Normal ItemCards
@@ -56,16 +64,8 @@ export default function SearchFood (){
                  item.card.info.name.toLowerCase().startsWith(food.toLowerCase())
             );
 
-             setRestData(searchedItems)   
-
-        }
-
-            if(food.length>1){
-                fetchData();
-            } else {
-            //  Clear items when input empty or 1 character
-             setRestData([]);
-            }
+        setRestData(searchedItems) 
+            
         
             },[food,id])
 

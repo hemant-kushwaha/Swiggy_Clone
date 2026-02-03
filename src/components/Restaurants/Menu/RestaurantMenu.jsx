@@ -1,24 +1,23 @@
 import { useParams ,Link } from "react-router";
 import { useState ,useEffect} from "react";
 import MenuCard from "./MenuCard";
+import {menuDataFetch} from "../../../store/MenuSlice"
+import { useDispatch, useSelector } from "react-redux";
 
 export default function RestaurantMenu (){
     let {id} = useParams();
     const[RestData, setRestData] = useState([])
     const [selected,setSelected] = useState(null)
 
+    const dispatch = useDispatch();
+    const {data,loading,error}=useSelector((state)=>state.menuSlice)
+
 
       useEffect(()=>{
-        async function fetchData() {
-            const proxyServer= "http://localhost:8080/"
-            const swiggyAPI = `https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=${id}`
-            const response = await fetch(proxyServer+swiggyAPI)      
-            const data = await response.json();
-            const tempData = data?.data?.cards[5]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
-            const filterData = tempData.filter(  (items) => items?.card?.card?.title &&  !items?.card?.card?.carousel);
-            setRestData(filterData)                                
-        }
-        fetchData();
+        dispatch(menuDataFetch(id));
+        const filterData = data;
+         setRestData(filterData)  
+    
     },[id])
 
     console.log(RestData)
