@@ -4,7 +4,6 @@ import { createAsyncThunk, createSlice} from "@reduxjs/toolkit";
 
 const menuDataFetch = createAsyncThunk( 'menu/fetch',
     async (args,thunkAPI)=>{
-
         try{
             const proxyServer= "http://localhost:8080/"
             const swiggyAPI = `https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=${args}`
@@ -22,18 +21,21 @@ const menuDataFetch = createAsyncThunk( 'menu/fetch',
 
 const menuData = createSlice({
     name:"menuSlice", 
-    initialState:{data:[],loading:false, error:null},
+    initialState:{data:[],loading:false, error:null, currentRequestId: null},
     reducers:{},
     extraReducers:(builder)=>{
-        builder.addCase(menuDataFetch.pending,(state)=>{
+        builder.addCase(menuDataFetch.pending,(state,action)=>{
+            state.currentRequestId = action.meta.requestId;
             state.loading=true;
             state.error = null;
         })
         .addCase(menuDataFetch.fulfilled,(state,action)=>{
+            if (state.currentRequestId !== action.meta.requestId) return;
             state.data=action.payload;
             state.loading = false;
         })
         .addCase(menuDataFetch.rejected,(state,action)=>{
+            if (state.currentRequestId !== action.meta.requestId) return;
             state.error=action.payload;
             state.loading = false;
         })

@@ -6,7 +6,11 @@ import menuReducer from "./MenuSlice"
 export const store = configureStore({
     reducer:{
         cartSlice:cardReducer,
-        menuSlice:menuReducer
-    }
-    
+        menuSlice:menuReducer,
+    },
+    middleware: (getDefaultMiddleware) =>
+    getDefaultMiddleware({
+      serializableCheck: false,
+    }),
+       
 })
