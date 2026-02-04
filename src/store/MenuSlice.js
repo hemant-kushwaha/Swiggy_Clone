@@ -5,14 +5,19 @@ import { createAsyncThunk, createSlice} from "@reduxjs/toolkit";
 const menuDataFetch = createAsyncThunk( 'menu/fetch',
     async (args,thunkAPI)=>{
         try{
-            const proxyServer= "http://localhost:8080/"
+            const proxyServer= "https://cors-anywhere-upqq.onrender.com/"
             const swiggyAPI = `https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=${args}`
-            const response = await fetch(proxyServer+swiggyAPI);
-            const data = await response.json();
-            const tempData = data?.data?.cards[5]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
-            const filterData = tempData.filter(  (items) => items?.card?.card?.title &&  !items?.card?.card?.carousel);
-
-            return filterData;
+            const response = await fetch(proxyServer+swiggyAPI,{ headers: {
+                      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+        "sec-ch-ua-platform": "\"Android\"",
+        "sec-ch-ua-mobile": "?1",
+        // ...other mobile headers if needed
+    }
+                }
+            );
+            
+            const data = await response.json();        
+            return data;
         }
         catch(error){
             return thunkAPI.rejectWithValue(error)

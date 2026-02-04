@@ -8,19 +8,25 @@ export default function RestaurantOption () {
    
     useEffect(()=>{
         async function fetchData() {
-            // const proxyServer= "https://corsproxy.io/"
-            // const swiggyAPI = "https://www.swiggy.com/mapi/restaurants/list/v5?offset=0&is-seo-homepage-enabled=true&lat=26.8373&lng=80.9165&carousel=true&third_party_vendor=1"
-            // const response = await fetch(proxyServer+swiggyAPI,{ headers: { "User-Agent": "Mozilla/5.0" } })      
-            // const data = await response.json();
+            const proxyServer= "https://cors-anywhere-upqq.onrender.com/"
+            const swiggyAPI = "https://www.swiggy.com/mapi/restaurants/list/v5?offset=0&is-seo-homepage-enabled=true&lat=26.8373&lng=80.9165&carousel=true&third_party_vendor=1"
+            const response = await fetch(proxyServer+swiggyAPI,{headers: {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/137.0.0.0 Safari/537.36",
+                    "sec-ch-ua-platform": "\"Windows\"",
+                    "sec-ch-ua-mobile": "?0",
+                    // ...other desktop headers if needed
+                }
+            })      
+            const data = await response.json();
 
-            const data = RestaurantData;
+            // const data = RestaurantData;
 
             setRestData(data?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants)                       
         }
         fetchData();
     },[])
 
-    // console.log(RestData)
+    console.log(RestData)
 
     //Shimmer Effect
     if(RestData.length === 0){

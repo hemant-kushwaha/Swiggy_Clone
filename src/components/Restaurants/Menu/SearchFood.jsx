@@ -23,8 +23,9 @@ export default function SearchFood (){
              setRestData([]);
             }
         
-
-        const filterData = data;
+        const Data = data;
+        const tempData = Data?.data?.cards[5]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
+        const filterData = tempData?.filter(  (items) => items?.card?.card?.title &&  !items?.card?.card?.carousel);
 
          //All Unique itemCards
             const allItemCards = [];
@@ -72,8 +73,8 @@ export default function SearchFood (){
         console.log(RestData);
 
     return(
-        <div className="w-[80%] mt-20 mx-auto">
-        <input className="w-full text-center py-4 rounded-2xl bg-gray-200 text-2xl mb-15" type="text" placeholder="Search Your Dishes Here" onChange={(e)=>setFood(e.target.value)}/>
+        <div className="w-[60%] mt-20 mx-auto">
+        <input className="w-full text-center py-4 rounded-2xl bg-gray-200 text-xl text-gray-900 font-semibold mb-15" type="text" placeholder="Search For Dishes" onChange={(e)=>setFood(e.target.value)}/>
         {
             RestData.map((items)=><ItemCard key={items?.card?.info?.id} itemData={items?.card?.info}></ItemCard>)
         }
