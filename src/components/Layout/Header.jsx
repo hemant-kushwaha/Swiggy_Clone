@@ -1,5 +1,9 @@
 import { Link } from "react-router"
+import Signup from "../Auth/Signup";
+import { useState } from "react";
 export default function Header () {
+
+    const [open,setOpen] = useState(false);
 
     return(
         <>
@@ -10,7 +14,7 @@ export default function Header () {
                     <a target="_blank" href="https://www.swiggy.com/corporate/">Swiggy Corporate</a>
                     <a target="_blank" href="https://partner.swiggy.com/login#/swiggy">Partner with us</a>
                     <a target="_blank" href="" className="border border-white px-4 py-3 rounded-2xl">Get the App ↗</a>
-                    <a target="_blank" href="" className="border border-black bg-black px-4 py-3 rounded-2xl">Sign in</a>
+                    <div className="border border-black bg-black px-4 py-3 rounded-2xl cursor-pointer" onClick={()=>setOpen(true)} >Sign in</div>
                  </nav>
             </div>
 
@@ -38,6 +42,9 @@ export default function Header () {
             </a>
             </div>            
         </header>
+
+        {/* // Sign Up  */}
+        {open && <Signup close={()=>setOpen(false)}></Signup>}
         </>
     )
 }
