@@ -4,6 +4,7 @@ import MenuCard from "./MenuCard";
 import {menuDataFetch} from "../../../store/MenuSlice"
 import { useDispatch, useSelector } from "react-redux";
 import ShimmerMenu from "./ShimmerMenu";
+import MenuFooter from "./MenuFooter";
 
 export default function RestaurantMenu (){
     let {id} = useParams();
@@ -50,7 +51,7 @@ export default function RestaurantMenu (){
                     <div className="text-black font-semibold">{Data?.data?.cards[0].card?.card?.text}</div>
                 </div>
 
-                <h1 className="text-black font-bold text-3xl mt-8 mb-8 ml-3">{RestData?.data?.cards[0]?.card?.card?.text}</h1>
+                <h1 className="text-black font-bold text-3xl mt-8 mb-8 ml-3">{RestData?.data?.cards[0]?.card?.card?.text} </h1>
 
                 <div className="">
                     <div className="flex gap-3 border-b-1 border-gray-300  mb-5 text-lg font-semibold ml-6">
@@ -125,11 +126,16 @@ export default function RestaurantMenu (){
                <button className={`text-md px-2 py-1 border-gray-400 mr-2 rounded-lg border ${selected === "veg"? "bg-[#aae3b0]" :"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "veg"?null:"veg")} >🥬 Veg</button>
                <button className={`text-md px-2 py-1 border-gray-400 rounded-lg border ${selected === "Nonveg"? "bg-[#f2ccc2]":"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "Nonveg"?null:"Nonveg")}>🍗 Non Veg</button>
             </div>    
-        <div className="w-[60%] mx-auto">
+            <div className="w-[60%] mx-auto">
             {
                 filterData?.map((menuItems,i)=><MenuCard key={menuItems?.card?.card?.title} menuItems={menuItems?.card?.card} foodSelected={selected}></MenuCard>)
             }
-        </div>
+            </div>
+
+            {/* Footer */}
+           <div className="w-[60%] mx-auto">
+             <MenuFooter name={RestData?.data?.cards[0]?.card?.card?.text} outlet={RestData?.data?.cards[2].card?.card?.info?.locality} address={RestData?.data?.cards[2].card?.card?.info?.labels[1]?.message}></MenuFooter>
+           </div>
         </div>
     )
 }
