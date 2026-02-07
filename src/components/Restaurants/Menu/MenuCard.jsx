@@ -80,7 +80,7 @@ export default function MenuCard ({menuItems,foodSelected}){
     return(       
         <div className="w-full">
            <div className="flex justify-between w-full">
-            <p className="text-3xl font-bold mb-4">{menuItems.title}</p>
+            <p className="text-2xl font-bold mb-4">{menuItems.title}</p>
             <button className="text-3xl mr-10" onClick={()=>setIsOpen(!isOpen)}> {isOpen? "˅": "˄"} </button>
           </div>
           <div>

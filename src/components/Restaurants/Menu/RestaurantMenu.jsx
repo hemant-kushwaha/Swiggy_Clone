@@ -5,6 +5,7 @@ import {menuDataFetch} from "../../../store/MenuSlice"
 import { useDispatch, useSelector } from "react-redux";
 import ShimmerMenu from "./ShimmerMenu";
 import MenuFooter from "./MenuFooter";
+import TopPickCard from "./TopPickCard";
 
 export default function RestaurantMenu (){
     let {id} = useParams();
@@ -27,7 +28,7 @@ export default function RestaurantMenu (){
 
         const tempData = RestData?.data?.cards[5]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
         const filterData = tempData?.filter(  (items) => items?.card?.card?.title &&  !items?.card?.card?.carousel);
-
+        console.log(tempData)
     // console.log(RestData)
         if (loading) {
             return <ShimmerMenu></ShimmerMenu>;
@@ -122,12 +123,29 @@ export default function RestaurantMenu (){
                 <p className="w-full text-center py-4 rounded-2xl bg-gray-200 text-xl text-gray-600 font-semibold">Search For Dishes</p>
                 </Link>
             </div> 
+            {/* Veg-Nonveg */}
             <div className="w-[60%] mt-20 mb-10 mx-auto ">
                <button className={`text-md px-2 py-1 border-gray-400 mr-2 rounded-lg border ${selected === "veg"? "bg-[#aae3b0]" :"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "veg"?null:"veg")} >🥬 Veg</button>
-               <button className={`text-md px-2 py-1 border-gray-400 rounded-lg border ${selected === "Nonveg"? "bg-[#f2ccc2]":"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "Nonveg"?null:"Nonveg")}>🍗 Non Veg</button>
-            </div>    
+               <button className={`text-md px-2 py-1 border-gray-400 rounded-lg border ${selected === "Nonveg"? "bg-[#f2ccc2]":"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "Nonveg"?null:"Nonveg")}>🍗 Non Veg</button>               
+            </div>   
+             {/* Top Picks carousel */}
+            <div className="w-[60%] mt-20 mb-10 mx-auto">
+                <hr className="text-gray-300 mb-10"/>           
+                <h1 className="text-2xl font-bold mb-4 block">Top Picks</h1>
+            <div className=" flex flex-nowrap overflow-x-auto gap-5 mb-5 flex-shrink-0">               
+            {
+                tempData?.[1]?.card?.card?.carousel?.map((item,i)=><TopPickCard key={item?.dish?.info?.id} infoData={item?.dish?.info} ></TopPickCard>)
+                
+            }
+            </div>
+            <div className="h-4 bg-gray-200 rounded mb-1"></div>
+
+            </div>         
+            
+
             <div className="w-[60%] mx-auto">
             {
+                
                 filterData?.map((menuItems,i)=><MenuCard key={menuItems?.card?.card?.title} menuItems={menuItems?.card?.card} foodSelected={selected}></MenuCard>)
             }
             </div>
@@ -139,6 +157,8 @@ export default function RestaurantMenu (){
         </div>
     )
 }
+
+
 
 // https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=59260&submitAction=ENTER
 // https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=60379&submitAction=ENTER --> use it
