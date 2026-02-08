@@ -6,6 +6,7 @@ export default function SecondaryLayout () {
         <>
         <RestaurantHeader></RestaurantHeader>
         <Outlet></Outlet>
+        
         </>
     )
 }
