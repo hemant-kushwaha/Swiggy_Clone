@@ -2,6 +2,7 @@ import { useEffect, useState } from "react"
 import RestaurantCard from "./RestaurantCard"
 import Shimmer from "./Shimmer"
 import RestaurantData from "../../Utils/RestaurantData"
+import RestaurantList from "./RestaurantList"
 
 export default function RestaurantOption () {
     const[RestData, setRestData] = useState([])
@@ -48,17 +49,19 @@ export default function RestaurantOption () {
         <hr  className=" w-[80%] mx-auto mt-8 text-2xl text-gray-300"/>
         <div className="w-[80%] mx-auto mt-5">
             <div className="text-2xl font-bold">{RestData?.data?.cards[1]?.card?.card?.header?.title}</div>
-           <div className="flex flex-nowrap overflow-x-auto mx-auto mt-10 gap-5 scrollbar-hide ">
+           <div className="flex flex-nowrap overflow-x-auto mx-auto mt-10 gap-5 scrollbar-hide ml-6 mr-6">
              { TopRestData.map((restInfo)=><RestaurantCard  key={restInfo.info.id} restInfo={restInfo}></RestaurantCard>)}
            </div>
         </div>
         <hr  className=" w-[80%] mx-auto mt-8 text-2xl text-gray-300"/>
-        <div className="w-[80%] mx-auto mt-5">
+        <div className="w-[80%] mx-auto mt-8">
             <div className="text-2xl font-bold">{RestData?.data?.cards[2]?.card?.card?.title}</div>
            <div className="flex flex-wrap mx-auto mt-10 gap-5 justify-center">
              { TopRestData?.map((restInfo)=><RestaurantCard  key={restInfo.info.id} restInfo={restInfo}></RestaurantCard>)}
            </div>
         </div>
+        <RestaurantList RestData={RestData}></RestaurantList>
+
         
         </>
     )
