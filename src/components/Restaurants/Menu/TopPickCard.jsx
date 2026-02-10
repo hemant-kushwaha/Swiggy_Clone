@@ -24,7 +24,8 @@ export default function TopPickCard ({infoData}) {
         dispatch(DecrementItems(infoData));        
     }
 
-
+    console.log(infoData)
+    const finalPrice = infoData?.price ?? infoData?.finalPrice ?? infoData?.defaultPrice;
 
     return(
         <>
@@ -32,8 +33,9 @@ export default function TopPickCard ({infoData}) {
             <img  className="" src={"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_292,h_300/TopPicks/PrDiGiftHamper"}></img>
             <div className="absolute bottom-3 left-4  right-4 flex justify-between text-white">
                 <div>
-                    <div className="line-through">{"₹"+infoData?.variantsV2?.variantGroups[1]?.variations[0]?.price}</div>
-                    <div>{"₹" + ((infoData?.finalPrice ?? infoData?.defaultPrice) / 100)}</div>
+                    <div>{(infoData?.price || infoData?.finalPrice) && (<div className="line-through">₹{infoData.defaultPrice / 100}</div>)}</div>
+                    {/* <div className="line-through">{"₹"+(infoData?.defaultPrice ?? "")/100}</div> */}
+                    <div>{"₹" + ((infoData?.price ?? infoData?.finalPrice ?? infoData?.defaultPrice) / 100)}</div>
                 </div>
                 <div>
 

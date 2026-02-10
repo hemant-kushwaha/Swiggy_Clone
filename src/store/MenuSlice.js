@@ -9,9 +9,9 @@ const menuDataFetch = createAsyncThunk( 'menu/fetch',
             const swiggyAPI = `https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=${args}`
             const response = await fetch(proxyServer+swiggyAPI,{ headers: {
                       "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
-        "sec-ch-ua-platform": "\"Android\"",
-        "sec-ch-ua-mobile": "?1",
-        // ...other mobile headers if needed
+                      "sec-ch-ua-platform": "\"Android\"",
+                      "sec-ch-ua-mobile": "?1",
+        
     }
                 }
             );
@@ -50,3 +50,7 @@ const menuData = createSlice({
 export default menuData.reducer;
 
 export {menuDataFetch};
+
+
+// https://www.swiggy.com/city/lucknow/mughal-zaika-aliganj-aliganj-rest808392?restaurant_id=808392&source=collection&query=Biryani
+// https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=${args}`

@@ -54,7 +54,7 @@ export default function RestaurantOption () {
         <hr  className=" w-[80%] mx-auto mt-8 text-2xl text-gray-300"/>
         <div className="w-[80%] mx-auto mt-5">
             <div className="text-2xl font-bold">{RestData?.data?.cards[1]?.card?.card?.header?.title}</div>
-           <div className="flex flex-nowrap overflow-x-auto mx-auto mt-10 gap-5 scrollbar-hide ml-6 mr-6">
+           <div className="flex flex-nowrap overflow-x-auto mx-auto mt-10 gap-5 scrollbar-hide ml-6 mr-7">
              { TopRestData.map((restInfo)=><RestaurantCard  key={restInfo.info.id} restInfo={restInfo}></RestaurantCard>)}
            </div>
         </div>
@@ -65,9 +65,7 @@ export default function RestaurantOption () {
              { TopRestData?.map((restInfo)=><RestaurantCard  key={restInfo.info.id} restInfo={restInfo}></RestaurantCard>)}
            </div>
         </div>
-        <RestaurantList RestData={RestData}></RestaurantList>
-
-        
+        <RestaurantList RestData={RestData}></RestaurantList>        
         </>
     )
 } 

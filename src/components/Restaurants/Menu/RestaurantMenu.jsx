@@ -28,7 +28,7 @@ export default function RestaurantMenu (){
 
         const tempData = RestData?.data?.cards[5]?.groupedCard?.cardGroupMap?.REGULAR?.cards;
         const filterData = tempData?.filter(  (items) => items?.card?.card?.title &&  !items?.card?.card?.carousel);
-        console.log(tempData)
+        console.log(tempData?.[1]?.card?.card?.carousel?.[0]?.dish?.info?.id)
     // console.log(RestData)
         if (loading) {
             return <ShimmerMenu></ShimmerMenu>;
@@ -128,20 +128,18 @@ export default function RestaurantMenu (){
                <button className={`text-md px-2 py-1 border-gray-400 mr-2 rounded-lg border ${selected === "veg"? "bg-[#aae3b0]" :"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "veg"?null:"veg")} >🥬 Veg</button>
                <button className={`text-md px-2 py-1 border-gray-400 rounded-lg border ${selected === "Nonveg"? "bg-[#f2ccc2]":"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "Nonveg"?null:"Nonveg")}>🍗 Non Veg</button>               
             </div>   
+
              {/* Top Picks carousel */}
             <div className="w-[60%] mt-20 mb-10 mx-auto">
                 <hr className="text-gray-300 mb-10"/>           
                 <h1 className="text-2xl font-bold mb-4 block">Top Picks</h1>
             <div className=" flex flex-nowrap overflow-x-auto gap-5 mb-5 flex-shrink-0">               
             {
-                tempData?.[1]?.card?.card?.carousel?.map((item,i)=><TopPickCard key={item?.dish?.info?.id} infoData={item?.dish?.info} ></TopPickCard>)
-                
+                tempData?.[1]?.card?.card?.carousel?.map((item,i)=><TopPickCard key={item?.dish?.info?.id} infoData={item?.dish?.info} ></TopPickCard>)                
             }
             </div>
             <div className="h-4 bg-gray-200 rounded mb-1"></div>
-
-            </div>         
-            
+            </div>           
 
             <div className="w-[60%] mx-auto">
             {
@@ -154,6 +152,8 @@ export default function RestaurantMenu (){
            <div className="w-[60%] mx-auto">
              <MenuFooter name={RestData?.data?.cards[0]?.card?.card?.text} outlet={RestData?.data?.cards[2].card?.card?.info?.locality} address={RestData?.data?.cards[2].card?.card?.info?.labels[1]?.message}></MenuFooter>
            </div>
+
+
         </div>
     )
 }
@@ -161,4 +161,5 @@ export default function RestaurantMenu (){
 
 
 // https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=59260&submitAction=ENTER
-// https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=60379&submitAction=ENTER --> use it
+// https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.83730&lng=80.91650&restaurantId=808392&submitAction=ENTER --> use it
+// https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=26.8373&lng=80.9165&restaurantId=808392&catalog_qa=undefined&query=Biryani&submitAction=ENTER
