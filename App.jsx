@@ -9,6 +9,7 @@ import SecondaryLayout from "./src/components/Layout/SecondaryLayout";
 import { store } from "./src/store/store";
 import { Provider } from "react-redux";
 import Checkout from "./src/components/Checkout/Checkout";
+import RestCollectionOption from "./src/components/Restaurants/Collection/RestCollectionOption";
 
 function App () {
     return(
@@ -19,6 +20,7 @@ function App () {
             <Route path="/" element={<HomePage></HomePage>}></Route>
             <Route element={<SecondaryLayout></SecondaryLayout>}>
                 <Route path="/restaurant" element={<RestaurantPage></RestaurantPage>}></Route>
+                <Route path="/collection/:id" element={<RestCollectionOption></RestCollectionOption>}></Route>
                 <Route path="/city/lucknow/:id" element={<MenuPage></MenuPage>}></Route>
                 <Route path="/city/lucknow/:id/search" element={<SearchFood></SearchFood>}></Route>
             </Route>

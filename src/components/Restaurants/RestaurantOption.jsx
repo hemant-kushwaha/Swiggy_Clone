@@ -3,6 +3,7 @@ import RestaurantCard from "./RestaurantCard"
 import Shimmer from "./Shimmer"
 import RestaurantData from "../../Utils/RestaurantData"
 import RestaurantList from "./RestaurantList"
+import { Link } from "react-router"
 
 export default function RestaurantOption () {
     const[RestData, setRestData] = useState([])
@@ -43,7 +44,11 @@ export default function RestaurantOption () {
         <div className="w-[80%] mx-auto mt-5">
               <div className="text-2xl font-bold">{RestData?.data?.cards[0]?.card?.card?.header?.title}</div>
               <div className="flex mx-auto h-50 gap-5 flex-nowrap overflow-x-auto scrollbar-hide">            
-                 {FoodData.map((item)=><img  key={item?.id} src={"https://media-assets.swiggy.com/swiggy/image/upload/"+item?.imageId}></img>)}
+                 {FoodData.map((item)=>(
+                <Link to={"/collection/"+item?.action?.link.split("/collections/")[1].split("&sortBy")[0].replace("&", "?")}  key={item?.id} className="flex-shrink-0">
+                   <img  key={item?.id} src={"https://media-assets.swiggy.com/swiggy/image/upload/"+item?.imageId} className="w-full h-50 object-cover"></img>
+                </Link>
+                 ))}
               </div>      
         </div>
         <hr  className=" w-[80%] mx-auto mt-8 text-2xl text-gray-300"/>
