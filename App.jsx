@@ -10,6 +10,7 @@ import { store } from "./src/store/store";
 import { Provider } from "react-redux";
 import Checkout from "./src/components/Checkout/Checkout";
 import RestCollectionOption from "./src/components/Restaurants/Collection/RestCollectionOption";
+import DineoutOption from "./src/components/Restaurants/Dineout/DineoutOption";
 
 function App () {
     return(
@@ -24,6 +25,7 @@ function App () {
                 <Route path="/city/lucknow/:id" element={<MenuPage></MenuPage>}></Route>
                 <Route path="/city/lucknow/:id/search" element={<SearchFood></SearchFood>}></Route>
             </Route>
+            <Route path="/dineout" element={<DineoutOption></DineoutOption>}></Route>
             <Route path="/checkout" element={<Checkout></Checkout>}></Route>
         </Routes>
         </BrowserRouter>
