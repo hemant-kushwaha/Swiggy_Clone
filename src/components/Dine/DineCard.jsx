@@ -1,9 +1,25 @@
+import {Link } from "react-router";
+import { useState,useEffect } from "react";
 export default function DineCard ({dineData}) {
+     const mediaFiles = dineData?.info?.mediaFiles;
+     const [currentIndex, setCurrentIndex] = useState(0);
+
+    useEffect(() => {
+            if (mediaFiles.length === 0) return;
+
+    const interval = setInterval(() => {
+                      setCurrentIndex((prevIndex) =>prevIndex === mediaFiles.length - 1 ? 0 : prevIndex + 1);
+              }, 3000);
+
+    return () => clearInterval(interval);
+
+    }, [mediaFiles.length]);
+
     return(
         <div className="max-w-xl flex-none rounded-xl overflow-hidden  pb-3 shadow-[0_4px_6px_rgba(0,0,0,0.09)] mb-2">
-            <a href={dineData?.cta?.link}>
+            <Link to={`/dineout/restaurant/${dineData?.info?.id}`}>
             <div className="relative">
-                <img className="w-93 h-47 object-cover" src={"https://media-assets.swiggy.com/swiggy/image/upload/"+dineData?.info?.mediaFiles?.[0]?.url} alt="" />
+                <img className="w-93 h-47 object-cover" src={"https://media-assets.swiggy.com/swiggy/image/upload/"+dineData?.info?.mediaFiles?.[currentIndex]?.url} alt="" />
                 <p className="absolute bottom-2 left-2 text-xl text-white font-bold z-10">{dineData?.info?.name}</p>
                 <p className="absolute bottom-2 right-2  text-xl text-white font-bold z-10">{dineData?.info?.rating.value}</p>
                 <div className="absolute bottom-0 left-0 right-0 h-10 bg-linear-to-t from-[#454343] to-transparent"></div>
@@ -26,7 +42,7 @@ export default function DineCard ({dineData}) {
                 </div>   
                            
             </div>
-            </a>
+            </Link>
         </div>
     )
 }
