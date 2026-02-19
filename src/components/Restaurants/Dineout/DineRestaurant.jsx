@@ -1,17 +1,17 @@
 import { useState, useEffect} from "react"
-import {dineoutRestaurants} from "../../../Utils/DineoutData"
+import {dineoutRestaurants,food} from "../../../Utils/DineoutData"
 import DineHeader from "./DineHeader"
 import { useParams} from "react-router";
-import OffersCard from "./OffersCard";
+import DineOutSection from "./DineOutSection "
+import PhotosSection from "./PhotosSection";
+import MenuSection from "./MenuSection";
 
 
 
 export default function DineRestaurant() {
 
     let {id} = useParams();
-    const [dineOut, setdineOut] = useState(true);
-    const [photos, setPhotos] = useState(false);
-    const [menu, setMenu] = useState(false);
+    const [activeTab, setActiveTab] = useState("dineout");
     const [isOpen, setIsOpen] = useState(false);
 
     useEffect(()=>{
@@ -28,23 +28,23 @@ export default function DineRestaurant() {
         };
         checktime();
         const timer = setInterval(checktime,60000)
-        return clearInterval();
+        return ()=>clearInterval(timer);
     },[])
 
 
-    const restaurantData = dineoutRestaurants.find( (item) => item?.info?.id === id);
+     const restaurantData = dineoutRestaurants.find( (item) => item?.info?.id === id);
 
     return(
         <>
         <DineHeader></DineHeader>
         <div className=" w-[80%] mx-auto mt-10 mb-10">
             <div className="text-3xl text-[rgba(2,6,12,0.75)] font-bold mb-6">{restaurantData?.info?.name}</div>
-            <div className="flex gap-8 text-lg text-[rgba(0, 0, 0, 0.75)] font-semibold mb-2 p-2">
-                <button>Dineout</button>
-                <button>Photos</button>
-                <button>Menu</button>
+            <div className="flex gap-8 text-lg text-[rgba(0, 0, 0, 0.75)] font-semibold mb-0 cursor-pointer">
+                <button onClick={() => setActiveTab("dineout")} className={activeTab === "dineout"?"border-b-5 rounded-sm border-[#FF5200] pb-1 cursor-pointer":"text-lg text-[rgba(0, 0, 0, 0.75)]  border-b-5 border-transparent font-semibold cursor-pointer pb-1"}>Dineout</button>
+                <button onClick={() => setActiveTab("photos")} className={activeTab === "photos"? "border-b-5 rounded-sm border-[#FF5200] pb-1 cursor-pointer" :"text-lg text-[rgba(0, 0, 0, 0.75)] border-b-5 border-transparent font-semibold cursor-pointer pb-1"}>Photos</button>
+                <button onClick={() => setActiveTab("menu")} className={activeTab === "menu"? "border-b-5 rounded-sm border-[#FF5200] pb-1 cursor-pointer": "text-lg text-[rgba(0, 0, 0, 0.75)] border-b-5 border-transparent font-semibold cursor-pointer pb-1"}>Menu</button>
             </div>
-            <hr className="text-gray-300 p-2 mb-6"/>
+            <hr className="text-gray-300 mb-6 mt-0"/>
           {/* Image Div */}
             <div className="relative">
                 <img  className="w-full h-70 object-cover rounded-xl"src={`https://media-assets.swiggy.com/swiggy/image/upload/`+restaurantData?.info?.mediaFiles[0]?.url}  alt="restaurant photo" />
@@ -53,7 +53,7 @@ export default function DineRestaurant() {
                    <div className="flex gap-1 font-bold mb-2"> <span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12.0002" cy="12" r="10.8" fill="#1BA672"></circle><path d="M12.0977 15.438C12.0373 15.4024 11.9623 15.4024 11.9019 15.438L8.77957 17.2761C8.32159 17.5457 7.76507 17.1308 7.89275 16.6149L8.73063 13.2294C8.74846 13.1573 8.72339 13.0814 8.66614 13.0341L5.94605 10.7883C5.5298 10.4447 5.74364 9.76902 6.28183 9.72744L9.88118 9.44931C9.95264 9.44379 10.0152 9.39914 10.0435 9.33333L11.4489 6.07662C11.6574 5.59359 12.3423 5.59359 12.5507 6.07662L13.9561 9.33333C13.9845 9.39914 14.047 9.44379 14.1184 9.44931L17.7178 9.72744C18.256 9.76902 18.4698 10.4447 18.0536 10.7883L15.3335 13.0341C15.2762 13.0814 15.2512 13.1573 15.269 13.2294L16.1069 16.6149C16.2345 17.1308 15.678 17.5457 15.22 17.2761L12.0977 15.438Z" fill="white"></path></svg></span>
                    {restaurantData?.info?.rating?.value} • {restaurantData?.info?.rating?.countDescription} • {restaurantData?.info?.costForTwo}
                    </div>
-                   <div className="text-sm font-bold mb-3">{restaurantData?.info?.cuisines.join(", ")}</div>
+                   <div className="text-sm font-bold mb-3">{restaurantData?.info?.cuisines?.join(", ")}</div>
                    <div>
                     <span className="text-lg font-semibold text-gray-600">Location </span>
                     <span className="text-lg font-[400]">{restaurantData?.info?.locationInfo?.formattedAddress}</span>
@@ -76,7 +76,7 @@ export default function DineRestaurant() {
                     </div>
                    </div>
                   </div>
-                    <button className="px-5 py-3 absolute top-50 right-8 rounded-xl text-[13px] text-[rgba(0, 0, 0, 0.75)] font-bold bg-gray-100"> ↕ Show all images</button>
+                    { activeTab !== "photos" && <button className="px-5 py-3 absolute top-50 right-8 rounded-xl text-[13px] text-[rgba(0, 0, 0, 0.75)] font-bold bg-gray-100 cursor-pointer" onClick={() => setActiveTab("photos")}> ↕ Show all images</button>}
                 </div>
                 
 
@@ -85,30 +85,11 @@ export default function DineRestaurant() {
         {/* Offers card */}
         <hr  className="mb-8"/>
                 
-                <div className="flex justify-between gap-3">
-                    
-                        <div className="w-[68%]">
-                            <h1 className="text-2xl font-bold mb-5">Offers</h1>
-                            <div className=" flex flex-nowrap flex-shrink-0  gap-5 mx-auto overflow-x-auto scrollbar-hide">
-                            <OffersCard title={restaurantData?.info?.vendorOffer?.info?.description}  perGuest={"@₹15/guest"}> </OffersCard>
-                            <OffersCard title={restaurantData?.info?.offerInfoV3?.vendorOffer?.title}  perGuest={"@₹10/guest"}> </OffersCard>
-                            <OffersCard title={restaurantData?.info?.vendorOffer?.info?.description}  perGuest={"@₹15/guest"}> </OffersCard>
-                            <OffersCard title={restaurantData?.info?.vendorOffer?.info?.description}  perGuest={"@₹15/guest"}> </OffersCard>
-                            <OffersCard title={restaurantData?.info?.vendorOffer?.info?.description}  perGuest={"@₹15/guest"}> </OffersCard>
-                            </div>
-                        <div>
-                        </div>
-                        <div className="text-xl font-bold mb-5 mt-10">Additional Offers</div>
-                        <div className="flex flex-nowrap border-2 gap-2 flex-shrink-0 rounded-3xl border-gray-300 min-w-[340px] ml-5 p-3 mb-3">
-                                            {/* <img height="50px" width="50px" src={`https://media-assets.swiggy.com/swiggy/image/upload/${value?.info?.offerLogo}`}></img> */}
-                                            <div>
-                                                {/* <div className="text-md font-bold">{value?.info?.header}</div> */}
-                                                {/* <div className="text-md font-bold text-gray-500">{"primaryDescription" in value?.info ? value?.info?.primaryDescription : value?.info?.description}</div> */}
-                                            </div>
-
-                                        </div>
-                        </div>
-                    <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/c/newqrcodeswiggyLatest.png" alt="logo" />
+                <div className="flex justify-between gap-3">                    
+                        { activeTab === "dineout" &&  ( <DineOutSection restaurantData={restaurantData}> </DineOutSection>) }
+                        { activeTab === "photos" && (<PhotosSection restaurantData={restaurantData}></PhotosSection>)}
+                        { activeTab === "menu" && (<MenuSection restaurantData={restaurantData}></MenuSection>)}
+                     <div className="flex shrink-0"><img className="w-75 h-110" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/c/newqrcodeswiggyLatest.png" alt="logo" /></div>
                 </div>
 
         </div>
