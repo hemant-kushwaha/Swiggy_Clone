@@ -85,7 +85,7 @@ export default function DineRestaurant() {
         {/* Offers card */}
         <hr  className="mb-8"/>
                 
-                <div className="flex justify-between gap-3">                    
+                <div className="flex justify-between gap-14">                    
                         { activeTab === "dineout" &&  ( <DineOutSection restaurantData={restaurantData}> </DineOutSection>) }
                         { activeTab === "photos" && (<PhotosSection restaurantData={restaurantData}></PhotosSection>)}
                         { activeTab === "menu" && (<MenuSection restaurantData={restaurantData}></MenuSection>)}

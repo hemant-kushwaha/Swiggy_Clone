@@ -12,12 +12,14 @@ import Checkout from "./src/components/Checkout/Checkout";
 import RestCollectionOption from "./src/components/Restaurants/Collection/RestCollectionOption";
 import DineoutPage from "./src/pages/DineoutPage";
 import DineRestaurant from "./src/components/Restaurants/Dineout/DineRestaurant"
+import ScrollToTop from "./src/components/ScrollToTop/ScrollToTop"
 
 function App () {
     return(
         <>
         <Provider store={store}>
         <BrowserRouter>
+        <ScrollToTop></ScrollToTop>
         <Routes>
             <Route path="/" element={<HomePage></HomePage>}></Route>
             <Route element={<SecondaryLayout></SecondaryLayout>}>

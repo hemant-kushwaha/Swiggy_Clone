@@ -3,7 +3,7 @@ import { food } from "../../../Utils/DineoutData";
 export default function MenuSection({ restaurantData }) {
   return (
     <>
-      <div className="w-[70%]">
+      <div>
         <div className="text-2xl font-bold mb-5 mt-5">Food</div>
         <div className=" flex flex-nowrap gap-5 mx-auto overflow-x-auto scrollbar-hide mb-12">
           {food.map((item, index) => {
