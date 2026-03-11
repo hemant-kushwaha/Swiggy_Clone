@@ -13,6 +13,8 @@ import RestCollectionOption from "./src/components/Restaurants/Collection/RestCo
 import DineoutPage from "./src/pages/DineoutPage";
 import DineRestaurant from "./src/components/Restaurants/Dineout/DineRestaurant"
 import ScrollToTop from "./src/components/ScrollToTop/ScrollToTop"
+import Instamart from './src/components/Instamart/Instamart';
+import InstamartItem from "./src/components/Instamart/InstamartItem";
 
 function App () {
     return(
@@ -31,6 +33,9 @@ function App () {
             <Route path="/dineout" element={<DineoutPage></DineoutPage>}></Route>
             <Route path="/dineout/restaurant/:id" element={<DineRestaurant></DineRestaurant>}></Route>
             <Route path="/checkout" element={<Checkout></Checkout>}></Route>
+            <Route path="/instamart" element={<Instamart></Instamart>}></Route>
+            <Route path="/instamart/product/:id" element={<InstamartItem></InstamartItem>}></Route>
+
         </Routes>
         </BrowserRouter>
         </Provider>
