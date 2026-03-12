@@ -14,7 +14,7 @@ export default function CardWithCart ({card,title,subtitle}){
                         <div key={item?.displayName+i} className="flex-shrink-0 flex-col flex relative w-34 items-center p-1">
                             
                             <div >
-                            {/* <Link to={`/instamart/product/${item?.productId}`} className="flex flex-col gap-1"> */}
+                            <Link to={`/instamart/product/${item?.productId}`} className="flex flex-col gap-1">
                                 <div className="flex flex-col items-center border-1 shadow-xs border-gray-100"><img className="w-34 h-34 object-cover" src={"https://media-assets.swiggy.com/swiggy/image/upload/" +item?.variations?.[0]?.imageIds?.[0]} alt="" /></div>
                             <div className="text-[10px] text-[#02060c73] font-bold">9 MINS</div>
                             <div className="text-sm text-[#02060cbf] font-bold line-clamp-2">{item?.displayName}</div>
@@ -24,7 +24,7 @@ export default function CardWithCart ({card,title,subtitle}){
                               <div className="text-sm text-[#02060cbf] font-bold">{"₹"+item?.variations?.[0]?.price?.mrp?.units || " "}</div>
                               <div className="text-sm line-through text-[#02060c99] font-semibold">{item?.variations?.[0]?.price?.offerPrice?.units || " "}</div>
                             </div>
-                            {/* </Link> */}
+                            </Link>
 
                             <div className="absolute top-1 right-1">
                             <img src={cartIcon} className="h-10 w-10 rounded-xl" alt="cart" />    

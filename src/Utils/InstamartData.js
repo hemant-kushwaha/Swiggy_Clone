@@ -4004,6 +4004,5589 @@ export const Card1 =  [
                                                                                                     "adTrackingContext": "",
                                                                                                     "parentProductId": "4WYKIURPAO"}
                       ]
+                      
+export const Card3 =  [
+                                    {
+                                        "displayName": "Supreme Harvest Crystal Sugar",
+                                        "brand": "Supreme Harvest",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "24YOMNQ982",
+                                                "spinId": "98DG1XN9O2",
+                                                "quantityDescription": "1 kg",
+                                                "displayName": "Supreme Harvest Crystal Sugar",
+                                                "brandName": "Supreme Harvest",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/3faec0c3-23e7-4595-a435-2fae25b97b69_98DG1XN9O2_MN_18122025.png",
+                                                    "akr52zfervvkfaqkofb6",
+                                                    "gutza5crwar7ahmwudzz"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "80",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "53",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "27",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "33% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "33% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Sugar",
+                                                "dimensions": {
+                                                    "lengthInCm": 23,
+                                                    "widthInCm": 15,
+                                                    "heightInCm": 2,
+                                                    "volumeInCc": 690
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 5,
+                                                    "quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1000,
+                                                "volumetricWeight": 690,
+                                                "subCategoryType": "Crystal Sugar",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Large crystal sugar for versatile use",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/3faec0c3-23e7-4595-a435-2fae25b97b69_98DG1XN9O2_MN_18122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "akr52zfervvkfaqkofb6",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "gutza5crwar7ahmwudzz",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "182.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Salt, Sugar and Jaggery",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"24YOMNQ982\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "2UDNQI8MR0",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "SX1UPX5JTP"
+                                    },
+                                    {
+                                        "displayName": "Fortune Refined Soybean Oil",
+                                        "brand": "Fortune",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "TRXAU0V11P",
+                                                "spinId": "VO6USDWP6W",
+                                                "quantityDescription": "750 g",
+                                                "displayName": "Fortune Refined Soybean Oil",
+                                                "brandName": "Fortune",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2026/2/18/4211cb92-b45e-4d92-afa9-43b5ac9b0be0_VO6USDWP6W_MN_18022026.png",
+                                                    "NI_CATALOG/IMAGES/ciw/2025/8/22/a1988ecc-a648-45fd-90a7-d85867818b8b_NPI-023344_2_20250822_064839.png",
+                                                    "NI_CATALOG/IMAGES/ciw/2025/8/22/6fa3751a-3063-4cba-a9ea-9a3d955ea084_NPI-023344_3_20250822_064839.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "155",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "127",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "28",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "18% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "18% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Edible Oils",
+                                                "dimensions": {
+                                                    "lengthInCm": 1500,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 1500
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 750,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2026/2/18/4211cb92-b45e-4d92-afa9-43b5ac9b0be0_VO6USDWP6W_MN_18022026.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/8/22/a1988ecc-a648-45fd-90a7-d85867818b8b_NPI-023344_2_20250822_064839.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/8/22/6fa3751a-3063-4cba-a9ea-9a3d955ea084_NPI-023344_3_20250822_064839.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "23.2k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Edible Oils and Ghee",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"TRXAU0V11P\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "C59SEFVRE0",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "BN5SAXJHF2"
+                                    },
+                                    {
+                                        "displayName": "Tender Coconut (Nariyal)",
+                                        "brand": "Fruits and Vegetables",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "XFB74UBADF",
+                                                "spinId": "ZZ6FZR67BB",
+                                                "quantityDescription": "1 Piece x 3",
+                                                "displayName": "Tender Coconut (Nariyal)",
+                                                "brandName": "Fruits and Vegetables",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/eafdfc16-c064-41bb-95c6-10606b6fca4f_357325_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": true,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "297",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "231",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "77/piece",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "66",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "22% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "22% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Fruits",
+                                                "dimensions": {
+                                                    "lengthInCm": 7,
+                                                    "widthInCm": 7,
+                                                    "heightInCm": 7,
+                                                    "volumeInCc": 343
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 6600,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Regular",
+                                                "secondaryQuantityDescription": "200 - 300 ml",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Hangxiety High? The nation’s official hydration IT support",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/eafdfc16-c064-41bb-95c6-10606b6fca4f_357325_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": null,
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Fruits and Vegetables",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "LK357K5IOY",
+                                                "spinId": "97VIJRXBA7",
+                                                "quantityDescription": "1 Piece",
+                                                "displayName": "Tender Coconut (Nariyal)",
+                                                "brandName": "Fruits and Vegetables",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/c2f95d2e-d4bf-440a-9f9a-216accd09324_97VIJRXBA7_MN_18122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "99",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "79",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "20% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "20% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Fruits",
+                                                "dimensions": {
+                                                    "lengthInCm": 7,
+                                                    "widthInCm": 7,
+                                                    "heightInCm": 7,
+                                                    "volumeInCc": 343
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 2200,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Regular",
+                                                "secondaryQuantityDescription": "200 - 300 ml",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Hangxiety High? The nation’s official hydration IT support",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/c2f95d2e-d4bf-440a-9f9a-216accd09324_97VIJRXBA7_MN_18122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": null,
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Fruits and Vegetables",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"LK357K5IOY\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "4RL2JFCWQG",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "NYZ1G84L5G"
+                                    },
+                                    {
+                                        "displayName": "Cadbury Dairy Milk Chocolate Bar",
+                                        "brand": "Cadbury",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "SRMVIFUVFD",
+                                                "spinId": "QC7I4I2H13",
+                                                "quantityDescription": "20.2 g x 2",
+                                                "displayName": "Cadbury Dairy Milk Chocolate Bar",
+                                                "brandName": "Cadbury",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/d537c42c-e294-4cf1-b8fc-eb0803496a67_590_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/5de9036a-972e-4de4-8e3f-39ecd4e6e9e0_590_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/31b38878-d43c-4936-90bc-2239f8cf9878_590_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/32c58d8f-fd1f-463e-aee1-82d94cb93f1d_590_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/a60e827b-6d5e-44c5-932d-82ca47f14a2d_590_5.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "99/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Milk Chocolates",
+                                                "dimensions": {
+                                                    "lengthInCm": 0,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 0
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 21,
+                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 0,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Chocolate",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Classic Treat, Smooth Chocolate.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/d537c42c-e294-4cf1-b8fc-eb0803496a67_590_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/5de9036a-972e-4de4-8e3f-39ecd4e6e9e0_590_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/31b38878-d43c-4936-90bc-2239f8cf9878_590_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/32c58d8f-fd1f-463e-aee1-82d94cb93f1d_590_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/a60e827b-6d5e-44c5-932d-82ca47f14a2d_590_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "93.4k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Chocolates",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "6NHRS0KHJ9",
+                                                "spinId": "UL5BWYO5O1",
+                                                "quantityDescription": "20.2 g",
+                                                "displayName": "Cadbury Dairy Milk Chocolate Bar",
+                                                "brandName": "Cadbury",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2026/2/18/23f7c2c5-38b1-421f-95c1-ebfa0f5fe381_UL5BWYO5O1_MN_18022026.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/27/8b712c90-6c0c-4456-87fb-a46aba71c833_590_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/27/b04f836c-a70a-4841-ae06-ba2b914a221a_590_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/27/713ddcbc-67af-4daf-9f56-b3aeb77112c6_590_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/10/27/cd592ba5-25cb-4c7a-9970-a3d345f0cb89_590_5.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "99/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Milk Chocolates",
+                                                "dimensions": {
+                                                    "lengthInCm": 0,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 0
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 0,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Chocolate Bar",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Classic Treat, Smooth Chocolate.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2026/2/18/23f7c2c5-38b1-421f-95c1-ebfa0f5fe381_UL5BWYO5O1_MN_18022026.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/27/8b712c90-6c0c-4456-87fb-a46aba71c833_590_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/27/b04f836c-a70a-4841-ae06-ba2b914a221a_590_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/27/713ddcbc-67af-4daf-9f56-b3aeb77112c6_590_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/27/cd592ba5-25cb-4c7a-9970-a3d345f0cb89_590_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "93.4k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Chocolates",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"6NHRS0KHJ9\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "ELU206V1ZK",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "2OGB7Y76S3"
+                                    },
+                                    {
+                                        "displayName": "Coca-Cola Diet Coke Can",
+                                        "brand": "Coca Cola",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "90Z31QQ7R5",
+                                                "spinId": "UKLMBIDIQH",
+                                                "quantityDescription": "300 ml x 6",
+                                                "displayName": "Coca-Cola Diet Coke Can",
+                                                "brandName": "Coca Cola",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
+                                                    "ack6aryynieswf9bmvsu",
+                                                    "hz64wtgry20igliar7pn"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": true,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "240",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "216",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "12/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "24",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "10% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "10% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Soft Drinks",
+                                                "dimensions": {
+                                                    "lengthInCm": 600,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 600
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 4,
+                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1800,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Soft Drink",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Low-calorie cola beverage",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "ack6aryynieswf9bmvsu",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "hz64wtgry20igliar7pn",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "75.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Cold Drinks and Juices",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "LFA1L33UFI",
+                                                "spinId": "A0D7GB0B8K",
+                                                "quantityDescription": "300 ml x 4",
+                                                "displayName": "Coca-Cola Diet Coke Can",
+                                                "brandName": "Coca Cola",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
+                                                    "ack6aryynieswf9bmvsu",
+                                                    "hz64wtgry20igliar7pn"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "160",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "160",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "13.3/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Soft Drinks",
+                                                "dimensions": {
+                                                    "lengthInCm": 600,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 600
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1200,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Soft Drink",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Sugar-free cola for a lighter refreshment.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "ack6aryynieswf9bmvsu",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "hz64wtgry20igliar7pn",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "75.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Cold Drinks and Juices",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "Y7RMZJG8ZB",
+                                                "spinId": "6W66L24IMW",
+                                                "quantityDescription": "300 ml x 2",
+                                                "displayName": "Coca-Cola Diet Coke Can",
+                                                "brandName": "Coca Cola",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
+                                                    "ack6aryynieswf9bmvsu",
+                                                    "hz64wtgry20igliar7pn"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "80",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "80",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "13.3/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Soft Drinks",
+                                                "dimensions": {
+                                                    "lengthInCm": 9,
+                                                    "widthInCm": 6,
+                                                    "heightInCm": 16,
+                                                    "volumeInCc": 921
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 600,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Soft Drink",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Sugar-free cola refreshment.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "ack6aryynieswf9bmvsu",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "hz64wtgry20igliar7pn",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "75.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Cold Drinks and Juices",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "7XVD2K3901",
+                                                "spinId": "FL5PODH1BP",
+                                                "quantityDescription": "300 ml",
+                                                "displayName": "Coca-Cola Diet Coke Can",
+                                                "brandName": "Coca Cola",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
+                                                    "ack6aryynieswf9bmvsu",
+                                                    "hz64wtgry20igliar7pn"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "13.3/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Soft Drinks",
+                                                "dimensions": {
+                                                    "lengthInCm": 600,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 600
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 300,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Soft Drink",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Light cola fizz",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "ack6aryynieswf9bmvsu",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "hz64wtgry20igliar7pn",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "75.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Cold Drinks and Juices",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"90Z31QQ7R5\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "SKLNYNX61O",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "ECARNG1K2X"
+                                    },
+                                    {
+                                        "displayName": "Lay's Potato Chips - American Style Cream & Onion Flavour",
+                                        "brand": "Lay's",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "LU7V5F5Q6Q",
+                                                "spinId": "N22OSDNKJW",
+                                                "quantityDescription": "48 g x 2",
+                                                "displayName": "Lay's Potato Chips - American Style Cream & Onion Flavour",
+                                                "brandName": "Lay's",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/928e74af-ca07-48c3-8dc2-519dc1d8738c_5468_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/2dd7acea-7c5b-48c3-a0e9-00bedfb616e7_5468_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/b0021b6d-5b1d-4b0c-9b94-744906ea46a8_5468_3.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "41.7/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Chips",
+                                                "dimensions": {
+                                                    "lengthInCm": 4,
+                                                    "widthInCm": 4,
+                                                    "heightInCm": 4,
+                                                    "volumeInCc": 64
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 20,
+                                                    "quantityLimitBreachedMessage": "Only 20 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 100,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Chips",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Classic Cream & Onion, American Style.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/928e74af-ca07-48c3-8dc2-519dc1d8738c_5468_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/2dd7acea-7c5b-48c3-a0e9-00bedfb616e7_5468_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/b0021b6d-5b1d-4b0c-9b94-744906ea46a8_5468_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "131.3k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Munchies And Snacks",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "59QF1APWSY",
+                                                "spinId": "YZRJB72DST",
+                                                "quantityDescription": "48 g",
+                                                "displayName": "Lay's Potato Chips - American Style Cream & Onion Flavour",
+                                                "brandName": "Lay's",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/17/1b996836-cb76-48d7-bdc8-b44e3043a553_YZRJB72DST_MN_17122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/2dd7acea-7c5b-48c3-a0e9-00bedfb616e7_5468_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/12/30/65d6a556-ce1e-46a3-8010-60d850bf7cc6_5468_3.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "41.7/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Chips",
+                                                "dimensions": {
+                                                    "lengthInCm": 18,
+                                                    "widthInCm": 13,
+                                                    "heightInCm": 5,
+                                                    "volumeInCc": 1170
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 20,
+                                                    "quantityLimitBreachedMessage": "Only 20 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 50,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Potato Chips",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Classic American-style cream & onion chips",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/17/1b996836-cb76-48d7-bdc8-b44e3043a553_YZRJB72DST_MN_17122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/2dd7acea-7c5b-48c3-a0e9-00bedfb616e7_5468_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/12/30/65d6a556-ce1e-46a3-8010-60d850bf7cc6_5468_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "131.3k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Munchies And Snacks",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"59QF1APWSY\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "WBFHXIJV0Y",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "53FSW0WAOC"
+                                    },
+                                    {
+                                        "displayName": "Sunfeast Dark Fantasy Bourbon Classic Biscuit Made With Real Chocolate",
+                                        "brand": "Sunfeast Dark Fantasy",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "GUBCSORMA9",
+                                                "spinId": "2ZLN7LQX4O",
+                                                "quantityDescription": "108 g",
+                                                "displayName": "Sunfeast Dark Fantasy Bourbon Classic Biscuit Made With Real Chocolate",
+                                                "brandName": "Sunfeast Dark Fantasy",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/2f0c3c24-c964-4e72-bd05-1ded926045c5_2ZLN7LQX4O_MN_17122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/12/9/fe1cb8e8-57dd-4ff9-a579-9380448056db_15434_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/12/9/93611838-904f-4f70-9ed0-2db8537d8cfe_15434_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/12/9/98835a77-3a83-427c-899c-f8dbba3cb368_15434_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/12/9/c2c9c433-4435-42fa-a43b-32bcbc3ed71a_15434_6.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "30",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "18",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "12",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "40% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "40% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Cream Biscuits",
+                                                "dimensions": {
+                                                    "lengthInCm": 21,
+                                                    "widthInCm": 6,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 126
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 120,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Cream Biscuits",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Chocolate cream-filled sandwich biscuits",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/2f0c3c24-c964-4e72-bd05-1ded926045c5_2ZLN7LQX4O_MN_17122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/12/9/fe1cb8e8-57dd-4ff9-a579-9380448056db_15434_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/12/9/93611838-904f-4f70-9ed0-2db8537d8cfe_15434_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/12/9/98835a77-3a83-427c-899c-f8dbba3cb368_15434_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/12/9/c2c9c433-4435-42fa-a43b-32bcbc3ed71a_15434_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "152k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Biscuits and Cakes",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"GUBCSORMA9\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "YI28PVW4VI",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "J7BG0X9KEP"
+                                    },
+                                    {
+                                        "displayName": "Tata Salt, Iodised Namak, Vacuum Evaporated Salt",
+                                        "brand": "Tata",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "XFVCC3O2PC",
+                                                "spinId": "UEURIRMFHO",
+                                                "quantityDescription": "1 kg",
+                                                "displayName": "Tata Salt, Iodised Namak, Vacuum Evaporated Salt",
+                                                "brandName": "Tata",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/c8cab118-f23e-40e0-b2fb-5930938dca58_C69LKERDE8_MN_18122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/1/25/c2527651-7293-4d49-8948-46139ecb9192_242_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/1/25/1aa3bd3b-d089-4a1d-b4e5-16757e94bddc_242_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/1/25/d5cffaaa-070d-4516-870c-86c066a0e61a_242_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/8/25/40e7b9ed-3daa-43d9-be67-f502536dee45_242_5.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "30",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "27",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "3",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "10% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "10% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Salt",
+                                                "dimensions": {
+                                                    "lengthInCm": 2000,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 2000
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 38,
+                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1000,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Iodized Salt",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Pure & Iodised, Vacuum Evaporated Salt.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/c8cab118-f23e-40e0-b2fb-5930938dca58_C69LKERDE8_MN_18122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/1/25/c2527651-7293-4d49-8948-46139ecb9192_242_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/1/25/1aa3bd3b-d089-4a1d-b4e5-16757e94bddc_242_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/1/25/d5cffaaa-070d-4516-870c-86c066a0e61a_242_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/8/25/40e7b9ed-3daa-43d9-be67-f502536dee45_242_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "125.3k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Salt, Sugar and Jaggery",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"XFVCC3O2PC\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "5DMEFBCGC6",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "7E9C9TBE07"
+                                    },
+                                    {
+                                        "displayName": "Nescafe Cafe Style Cold Coffee, Iced Latte",
+                                        "brand": "Nescafe",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "HN8A2FTSLO",
+                                                "spinId": "0XAYQ3RHDP",
+                                                "quantityDescription": "170 ml x 3",
+                                                "displayName": "Nescafe Cafe Style Cold Coffee, Iced Latte",
+                                                "brandName": "Nescafe",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "150",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "138",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "27.1/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "12",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "8% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "8% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Milk Based Drinks",
+                                                "dimensions": {
+                                                    "lengthInCm": 340,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 340
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 510,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Latte",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.4",
+                                                    "valueColor": "positive",
+                                                    "count": "14.4k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Dairy, Bread and Eggs",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "ZHIGY6PTPD",
+                                                "spinId": "NJYOXA0V5Q",
+                                                "quantityDescription": "170 ml x 2",
+                                                "displayName": "Nescafe Cafe Style Cold Coffee, Iced Latte",
+                                                "brandName": "Nescafe",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": true,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "100",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "89",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "26.2/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "11",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "11% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "11% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Milk Based Drinks",
+                                                "dimensions": {
+                                                    "lengthInCm": 340,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 340
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 340,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Latte",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.4",
+                                                    "valueColor": "positive",
+                                                    "count": "14.4k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Dairy, Bread and Eggs",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "I11WNBC2B3",
+                                                "spinId": "TKUVNU3W03",
+                                                "quantityDescription": "170 ml",
+                                                "displayName": "Nescafe Cafe Style Cold Coffee, Iced Latte",
+                                                "brandName": "Nescafe",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/17/7b8a1549-5c1b-421d-8410-68a9d9b982c9_TKUVNU3W03_MN_16122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "50",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "47",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "27.6/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "3",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "6% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "6% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Milk Based Drinks",
+                                                "dimensions": {
+                                                    "lengthInCm": 340,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 340
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 170,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/17/7b8a1549-5c1b-421d-8410-68a9d9b982c9_TKUVNU3W03_MN_16122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.4",
+                                                    "valueColor": "positive",
+                                                    "count": "14.4k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Dairy, Bread and Eggs",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"I11WNBC2B3\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "9D1V72V6P8",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "U9WRHSC6RE"
+                                    },
+                                    {
+                                        "displayName": "Rin Fabric Whitener Liquid Cleanser",
+                                        "brand": "Rin",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "B43GV7UU30",
+                                                "spinId": "1F45MOAF4H",
+                                                "quantityDescription": "500 ml x 3",
+                                                "displayName": "Rin Fabric Whitener Liquid Cleanser",
+                                                "brandName": "Rin",
+                                                "imageIds": [
+                                                    "b2715672704687cd120716307cb0a65e",
+                                                    "tdxgra3ijo4prxnk7bys"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "270",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "265",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "17.7/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "5",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "1% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "1% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Laundry Additives",
+                                                "dimensions": {
+                                                    "lengthInCm": 6,
+                                                    "widthInCm": 6,
+                                                    "heightInCm": 63,
+                                                    "volumeInCc": 2268
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 5,
+                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1500,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Fabric Whitener",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "b2715672704687cd120716307cb0a65e",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "tdxgra3ijo4prxnk7bys",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "10.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Cleaning Essentials",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "KPBF2C5JSS",
+                                                "spinId": "AKIY4W7GBJ",
+                                                "quantityDescription": "500 ml x 2",
+                                                "displayName": "Rin Fabric Whitener Liquid Cleanser",
+                                                "brandName": "Rin",
+                                                "imageIds": [
+                                                    "b2715672704687cd120716307cb0a65e",
+                                                    "tdxgra3ijo4prxnk7bys"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "180",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "180",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "18/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Laundry Additives",
+                                                "dimensions": {
+                                                    "lengthInCm": 16,
+                                                    "widthInCm": 11,
+                                                    "heightInCm": 9,
+                                                    "volumeInCc": 1584
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1000,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Fabric Whitener",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "b2715672704687cd120716307cb0a65e",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "tdxgra3ijo4prxnk7bys",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "10.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Cleaning Essentials",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "PZ0P44LFM6",
+                                                "spinId": "Q97A9TG961",
+                                                "quantityDescription": "500 ml",
+                                                "displayName": "Rin Fabric Whitener Liquid Cleanser",
+                                                "brandName": "Rin",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/bc868357-af90-42de-b99b-49322152ffd2_Q97A9TG961_MN_18122025.png",
+                                                    "tdxgra3ijo4prxnk7bys"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "90",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "90",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "18/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Laundry Additives",
+                                                "dimensions": {
+                                                    "lengthInCm": 6,
+                                                    "widthInCm": 6,
+                                                    "heightInCm": 21,
+                                                    "volumeInCc": 756
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 500,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Fabric Whitener",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Bright whites revived",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/bc868357-af90-42de-b99b-49322152ffd2_Q97A9TG961_MN_18122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "tdxgra3ijo4prxnk7bys",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "10.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Cleaning Essentials",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"PZ0P44LFM6\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "YUAPUWCYVS",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "CHWWF3NSJK"
+                                    },
+                                    {
+                                        "displayName": "Lay's India's Magic Masala Chips",
+                                        "brand": "Lay's",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "AVTWPCJZ3H",
+                                                "spinId": "K7KLQQBA39",
+                                                "quantityDescription": "48 g x 2",
+                                                "displayName": "Lay's India's Magic Masala Chips",
+                                                "brandName": "Lay's",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/a19b918c-0bad-4c0f-b751-48a8393e4bb0_673_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/66813f15-4c11-41d5-aa3b-fa6e93ad5867_673_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/904d5b1b-70f2-4fb2-bdca-8942159ef4ff_673_3.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "41.7/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Chips",
+                                                "dimensions": {
+                                                    "lengthInCm": 16,
+                                                    "widthInCm": 11,
+                                                    "heightInCm": 13,
+                                                    "volumeInCc": 2178
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 20,
+                                                    "quantityLimitBreachedMessage": "Only 20 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 100,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Potato Chips",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Authentic Masala, Savory Crunch.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/a19b918c-0bad-4c0f-b751-48a8393e4bb0_673_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/66813f15-4c11-41d5-aa3b-fa6e93ad5867_673_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/904d5b1b-70f2-4fb2-bdca-8942159ef4ff_673_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "126.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Munchies And Snacks",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "DCH1QSCH3D",
+                                                "spinId": "S9AE4DAA9O",
+                                                "quantityDescription": "48 g",
+                                                "displayName": "Lay's India's Magic Masala Chips",
+                                                "brandName": "Lay's",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/17/2d123adc-82ac-4e55-a6d6-1c2d414d3adb_S9AE4DAA9O_MN_17122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/66813f15-4c11-41d5-aa3b-fa6e93ad5867_673_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/904d5b1b-70f2-4fb2-bdca-8942159ef4ff_673_3.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "41.7/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Chips",
+                                                "dimensions": {
+                                                    "lengthInCm": 18,
+                                                    "widthInCm": 11,
+                                                    "heightInCm": 5,
+                                                    "volumeInCc": 990
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 20,
+                                                    "quantityLimitBreachedMessage": "Only 20 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 50,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Potato Chips",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Spicy and tangy potato chips.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/17/2d123adc-82ac-4e55-a6d6-1c2d414d3adb_S9AE4DAA9O_MN_17122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/66813f15-4c11-41d5-aa3b-fa6e93ad5867_673_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/904d5b1b-70f2-4fb2-bdca-8942159ef4ff_673_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "126.1k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Munchies And Snacks",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"DCH1QSCH3D\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "OVACG3I2JD",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "L6PN57SKTI"
+                                    },
+                                    {
+                                        "displayName": "Supreme Harvest Maida (Refined Wheat Flour)",
+                                        "brand": "Supreme Harvest",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "KT24QMO6NA",
+                                                "spinId": "CX3D54WD06",
+                                                "quantityDescription": "1 kg",
+                                                "displayName": "Supreme Harvest Maida (Refined Wheat Flour)",
+                                                "brandName": "Supreme Harvest",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/16/d4c59bc8-5299-4cdd-9c01-0b87376dfe5f_CX3D54WD06_MN_16122025.png",
+                                                    "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+                                                    "d0ea1c898952f277cd12c5bf935dafad"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "90",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "49",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "41",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "45% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "45% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Besan, Sooji and Maida",
+                                                "dimensions": {
+                                                    "lengthInCm": 24,
+                                                    "widthInCm": 17,
+                                                    "heightInCm": 3,
+                                                    "volumeInCc": 1224
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1000,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Refined Wheat Flour",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Finely milled white flour for baking",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/16/d4c59bc8-5299-4cdd-9c01-0b87376dfe5f_CX3D54WD06_MN_16122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "d0ea1c898952f277cd12c5bf935dafad",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "18.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Atta, Rice and Dals",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"KT24QMO6NA\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "23V6E09P0A",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "F6SS5G6PNL"
+                                    },
+                                    {
+                                        "displayName": "Amul Pasteurised Butter",
+                                        "brand": "Amul",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "LSHCGIISLI",
+                                                "spinId": "7MXKNLXAT3",
+                                                "quantityDescription": "100 g x 4",
+                                                "displayName": "Amul Pasteurised Butter",
+                                                "brandName": "Amul",
+                                                "imageIds": [
+                                                    "emujgakbhef20bicfyn3",
+                                                    "f9bujyxtua3ejqxmvt34",
+                                                    "eayedfhiqgujj3xjyqao",
+                                                    "m3umpwackuj7dtyarouv",
+                                                    "zcreknzv9cxiqxidpqay",
+                                                    "en0kisjjj4pi2efthmmf"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "232",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "232",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "58/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Butter",
+                                                "dimensions": {
+                                                    "lengthInCm": 14,
+                                                    "widthInCm": 6,
+                                                    "heightInCm": 12,
+                                                    "volumeInCc": 1008
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 400,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Butter",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Pure & Creamy, Classic Butter.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "emujgakbhef20bicfyn3",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "f9bujyxtua3ejqxmvt34",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "eayedfhiqgujj3xjyqao",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "m3umpwackuj7dtyarouv",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "zcreknzv9cxiqxidpqay",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "en0kisjjj4pi2efthmmf",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "137.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Dairy, Bread and Eggs",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "34QQ8MACXK",
+                                                "spinId": "QD2Z47ZIIW",
+                                                "quantityDescription": "100 g x 3",
+                                                "displayName": "Amul Pasteurised Butter",
+                                                "brandName": "Amul",
+                                                "imageIds": [
+                                                    "emujgakbhef20bicfyn3",
+                                                    "f9bujyxtua3ejqxmvt34",
+                                                    "eayedfhiqgujj3xjyqao",
+                                                    "m3umpwackuj7dtyarouv",
+                                                    "zcreknzv9cxiqxidpqay",
+                                                    "en0kisjjj4pi2efthmmf"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "174",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "174",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "58/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Butter",
+                                                "dimensions": {
+                                                    "lengthInCm": 200,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 200
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 300,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Butter",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "emujgakbhef20bicfyn3",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "f9bujyxtua3ejqxmvt34",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "eayedfhiqgujj3xjyqao",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "m3umpwackuj7dtyarouv",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "zcreknzv9cxiqxidpqay",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "en0kisjjj4pi2efthmmf",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "137.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Dairy, Bread and Eggs",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "BQ33PRU9VX",
+                                                "spinId": "O4WS9UOMQ4",
+                                                "quantityDescription": "100 g",
+                                                "displayName": "Amul Pasteurised Butter",
+                                                "brandName": "Amul",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/17/e23ba089-96f4-4653-a9a7-f1ec890255ef_126_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/17/074ac313-7d8f-4325-9e88-e4bf62f26ac1_126_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/17/19f6c687-a7bb-468b-9161-74687da0457b_126_4.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "58",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "58",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Butter",
+                                                "dimensions": {
+                                                    "lengthInCm": 200,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 200
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 100,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Butter",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Fresh and creamy pasteurized butter",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/17/e23ba089-96f4-4653-a9a7-f1ec890255ef_126_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/17/074ac313-7d8f-4325-9e88-e4bf62f26ac1_126_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/17/19f6c687-a7bb-468b-9161-74687da0457b_126_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "137.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Dairy, Bread and Eggs",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"BQ33PRU9VX\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "TN0BERMP8A",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "82S8AX96LS"
+                                    },
+                                    {
+                                        "displayName": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
+                                        "brand": "Maggi",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "SQG8YL032I",
+                                                "spinId": "L5XS0G5W34",
+                                                "quantityDescription": "300 g x 4",
+                                                "displayName": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
+                                                "brandName": "Maggi",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/1a7eb2d6-cfdb-4243-9de7-feaa3c1992e2_82_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/bf596ad9-9c36-499d-ba39-ca1aac35c672_82_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/afafc8a7-8e29-4fa6-bccf-1e72992b5851_82_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/deb77b56-0947-4667-a1c2-afd23d17cb1a_82_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/64f28777-e7d6-4cab-a17c-c8e9562ce876_82_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/c546ab5b-b476-48ac-a5fc-d21fdda75635_82_6.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "232",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "232",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "19.3/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Noodles and Vermicelli",
+                                                "dimensions": {
+                                                    "lengthInCm": 16,
+                                                    "widthInCm": 42,
+                                                    "heightInCm": 4,
+                                                    "volumeInCc": 2688
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1200,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Instant Noodles",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Enjoy your favourite Masala taste",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/1a7eb2d6-cfdb-4243-9de7-feaa3c1992e2_82_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/bf596ad9-9c36-499d-ba39-ca1aac35c672_82_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/afafc8a7-8e29-4fa6-bccf-1e72992b5851_82_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/deb77b56-0947-4667-a1c2-afd23d17cb1a_82_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/64f28777-e7d6-4cab-a17c-c8e9562ce876_82_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/c546ab5b-b476-48ac-a5fc-d21fdda75635_82_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "124.2k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Instant Food and Frozen Food",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "IVB13VKXV2",
+                                                "spinId": "XR43QFU3UY",
+                                                "quantityDescription": "300 g x 2",
+                                                "displayName": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
+                                                "brandName": "Maggi",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/1a7eb2d6-cfdb-4243-9de7-feaa3c1992e2_82_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/bf596ad9-9c36-499d-ba39-ca1aac35c672_82_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/afafc8a7-8e29-4fa6-bccf-1e72992b5851_82_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/deb77b56-0947-4667-a1c2-afd23d17cb1a_82_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/64f28777-e7d6-4cab-a17c-c8e9562ce876_82_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/c546ab5b-b476-48ac-a5fc-d21fdda75635_82_6.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "116",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "116",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "19.3/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Noodles and Vermicelli",
+                                                "dimensions": {
+                                                    "lengthInCm": 13,
+                                                    "widthInCm": 10,
+                                                    "heightInCm": 9,
+                                                    "volumeInCc": 1170
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 600,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Instant Noodles",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Enjoy your favourite Masala taste",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/1a7eb2d6-cfdb-4243-9de7-feaa3c1992e2_82_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/bf596ad9-9c36-499d-ba39-ca1aac35c672_82_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/afafc8a7-8e29-4fa6-bccf-1e72992b5851_82_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/deb77b56-0947-4667-a1c2-afd23d17cb1a_82_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/64f28777-e7d6-4cab-a17c-c8e9562ce876_82_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/c546ab5b-b476-48ac-a5fc-d21fdda75635_82_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "124.2k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Instant Food and Frozen Food",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "8646DZ7L7A",
+                                                "spinId": "C065XMRW6S",
+                                                "quantityDescription": "300 g",
+                                                "displayName": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
+                                                "brandName": "Maggi",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/4785f6b4-5e4e-4e4e-8f59-82e6493060dd_82_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/4f05d9eb-a145-460a-a1e6-a95afe74c28c_82_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/947e607b-838c-4693-a4ae-a6b7ffd76898_82_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/00d85d10-ac49-4c3d-bd5b-3aafd73f0777_82_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/000fe5c6-00be-4068-a94e-3200f9410824_82_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/0dadf151-b2d0-4544-a8d7-a428876c9c4c_82_6.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/c474c7ad-0b80-4665-9176-c7b303022c68_82_7.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "58",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "58",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "19.3/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Noodles and Vermicelli",
+                                                "dimensions": {
+                                                    "lengthInCm": 600,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 600
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 300,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Instant Noodles",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Enjoy your favourite Masala taste",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/4785f6b4-5e4e-4e4e-8f59-82e6493060dd_82_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/4f05d9eb-a145-460a-a1e6-a95afe74c28c_82_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/947e607b-838c-4693-a4ae-a6b7ffd76898_82_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/00d85d10-ac49-4c3d-bd5b-3aafd73f0777_82_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/000fe5c6-00be-4068-a94e-3200f9410824_82_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/0dadf151-b2d0-4544-a8d7-a428876c9c4c_82_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/c474c7ad-0b80-4665-9176-c7b303022c68_82_7.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "124.2k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Instant Food and Frozen Food",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"8646DZ7L7A\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "PP8VVOYNES",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "DVGN0VN593"
+                                    },
+                                    {
+                                        "displayName": "Britannia Good Day Chunkies Chocolate Chip Cookies",
+                                        "brand": "Britannia",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "JTV303MAY6",
+                                                "spinId": "7P9W21ISIN",
+                                                "quantityDescription": "75 g",
+                                                "displayName": "Britannia Good Day Chunkies Chocolate Chip Cookies",
+                                                "brandName": "Britannia",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/4bf68a0e-8cd0-4cab-8663-524823b1f417_7P9W21ISIN_MN_17122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/cf2462d3-7fae-4d4e-b892-5899e64353db_2871_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/aefd9df6-7ee7-4f8a-b625-dbce25e8de43_2871_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/643f4327-371b-4145-b24a-96efe188c89f_2871_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/32ed6ae1-d836-483a-aeac-03d73f5886c4_2871_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/e3c6310e-6ada-4c2e-84d6-856b6a41c841_2871_6.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "37",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "3",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "7% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "7% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Cookies",
+                                                "dimensions": {
+                                                    "lengthInCm": 20,
+                                                    "widthInCm": 15,
+                                                    "heightInCm": 5,
+                                                    "volumeInCc": 1500
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 75,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Cookies",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/4bf68a0e-8cd0-4cab-8663-524823b1f417_7P9W21ISIN_MN_17122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/cf2462d3-7fae-4d4e-b892-5899e64353db_2871_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/aefd9df6-7ee7-4f8a-b625-dbce25e8de43_2871_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/643f4327-371b-4145-b24a-96efe188c89f_2871_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/32ed6ae1-d836-483a-aeac-03d73f5886c4_2871_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/e3c6310e-6ada-4c2e-84d6-856b6a41c841_2871_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "12k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Biscuits and Cakes",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"JTV303MAY6\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "T4KMOY115U",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "U3BUG4L92H"
+                                    },
+                                    {
+                                        "displayName": "Amul Frostik Chocolate Ice Cream Stick",
+                                        "brand": "Amul",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "SFMJJZP1BB",
+                                                "spinId": "3YFLFIV5CY",
+                                                "quantityDescription": "70 ml x 6",
+                                                "displayName": "Amul Frostik Chocolate Ice Cream Stick",
+                                                "brandName": "Amul",
+                                                "imageIds": [
+                                                    "d9868befa92ae14bb5fe4069ced491c6",
+                                                    "fa024ed7c63e97160bbb8019f92b1488",
+                                                    "58dbf1e4cd95d124455340af58684331"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "180",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "180",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "42.9/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Ice Creams",
+                                                "dimensions": {
+                                                    "lengthInCm": 22,
+                                                    "widthInCm": 11,
+                                                    "heightInCm": 20,
+                                                    "volumeInCc": 4840
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 420,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "d9868befa92ae14bb5fe4069ced491c6",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "fa024ed7c63e97160bbb8019f92b1488",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "58dbf1e4cd95d124455340af58684331",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.1",
+                                                    "valueColor": "positive",
+                                                    "count": "46.4k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Ice Cream and Indian Sweets",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "RBOT0Y9UJN",
+                                                "spinId": "9Y78P3GQK0",
+                                                "quantityDescription": "70 ml x 3",
+                                                "displayName": "Amul Frostik Chocolate Ice Cream Stick",
+                                                "brandName": "Amul",
+                                                "imageIds": [
+                                                    "d9868befa92ae14bb5fe4069ced491c6",
+                                                    "fa024ed7c63e97160bbb8019f92b1488",
+                                                    "58dbf1e4cd95d124455340af58684331"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": true,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "90",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "88",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "41.9/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "2",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "2% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "2% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Ice Creams",
+                                                "dimensions": {
+                                                    "lengthInCm": 22,
+                                                    "widthInCm": 11,
+                                                    "heightInCm": 20,
+                                                    "volumeInCc": 4840
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 210,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "d9868befa92ae14bb5fe4069ced491c6",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "fa024ed7c63e97160bbb8019f92b1488",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "58dbf1e4cd95d124455340af58684331",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.1",
+                                                    "valueColor": "positive",
+                                                    "count": "46.4k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Ice Cream and Indian Sweets",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "JD7Y1D2OOC",
+                                                "spinId": "K065I9TA8S",
+                                                "quantityDescription": "70 ml",
+                                                "displayName": "Amul Frostik Chocolate Ice Cream Stick",
+                                                "brandName": "Amul",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2026/2/11/c0dad784-2a3b-40f1-8a54-c79df8930fab_K065I9TA8S_MN_11022026.png",
+                                                    "fa024ed7c63e97160bbb8019f92b1488",
+                                                    "58dbf1e4cd95d124455340af58684331"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "30",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "30",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "42.9/100 ml",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Ice Creams",
+                                                "dimensions": {
+                                                    "lengthInCm": 6,
+                                                    "widthInCm": 6,
+                                                    "heightInCm": 10,
+                                                    "volumeInCc": 360
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 70,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2026/2/11/c0dad784-2a3b-40f1-8a54-c79df8930fab_K065I9TA8S_MN_11022026.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "fa024ed7c63e97160bbb8019f92b1488",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "58dbf1e4cd95d124455340af58684331",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.1",
+                                                    "valueColor": "positive",
+                                                    "count": "46.4k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Ice Cream and Indian Sweets",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"JD7Y1D2OOC\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "XD5TK3AL01",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "U2BBXSSYEB"
+                                    },
+                                    {
+                                        "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+                                        "brand": "Britannia",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "37X5G2RO7M",
+                                                "spinId": "10I7IQPG2G",
+                                                "quantityDescription": "120 g x 3",
+                                                "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+                                                "brandName": "Britannia",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/80e2396a-1bc9-4cfe-9540-2a8b99bc93ef_14007_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": true,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "240",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "172",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "47.8/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "68",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "28% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "28% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Cakes and Pies",
+                                                "dimensions": {
+                                                    "lengthInCm": 13,
+                                                    "widthInCm": 9,
+                                                    "heightInCm": 9,
+                                                    "volumeInCc": 1053
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 360,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Brownie",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Gooey chocolate brownie-style cake",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/80e2396a-1bc9-4cfe-9540-2a8b99bc93ef_14007_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.4",
+                                                    "valueColor": "positive",
+                                                    "count": "31.3k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Biscuits and Cakes",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "KC2XCOX1F6",
+                                                "spinId": "UR5YR279LC",
+                                                "quantityDescription": "120 g x 2",
+                                                "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+                                                "brandName": "Britannia",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/80e2396a-1bc9-4cfe-9540-2a8b99bc93ef_14007_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "160",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "118",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "49.2/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "42",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "26% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "26% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Cakes and Pies",
+                                                "dimensions": {
+                                                    "lengthInCm": 13,
+                                                    "widthInCm": 9,
+                                                    "heightInCm": 10,
+                                                    "volumeInCc": 1170
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 240,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Brownie",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Indulge in fudgy chocolate brownie bliss.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/80e2396a-1bc9-4cfe-9540-2a8b99bc93ef_14007_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.4",
+                                                    "valueColor": "positive",
+                                                    "count": "31.3k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Biscuits and Cakes",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "GZBBLKD5PY",
+                                                "spinId": "UZ8V5A7PDG",
+                                                "quantityDescription": "120 g",
+                                                "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+                                                "brandName": "Britannia",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/ebf2b0aa-fb37-4659-8d4c-b0959131a334_UZ8V5A7PDG_MN_17122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "80",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "59",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "49.2/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "21",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "26% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "26% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Cakes and Pies",
+                                                "dimensions": {
+                                                    "lengthInCm": 240,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 240
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 120,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Cake",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Rich fudgy slice",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/ebf2b0aa-fb37-4659-8d4c-b0959131a334_UZ8V5A7PDG_MN_17122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.4",
+                                                    "valueColor": "positive",
+                                                    "count": "31.3k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Biscuits and Cakes",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"GZBBLKD5PY\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "RAH3FXA3US",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "Y9088YU3IU"
+                                    },
+                                    {
+                                        "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
+                                        "brand": "Bingo",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "7DRBRAWZ4Z",
+                                                "spinId": "FVDR25BAF9",
+                                                "quantityDescription": "60 g x 4",
+                                                "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
+                                                "brandName": "Bingo",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/4a328181-53dc-4912-bb37-4b798719b663_203_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "80",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "80",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "33.3/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Chips",
+                                                "dimensions": {
+                                                    "lengthInCm": 16,
+                                                    "widthInCm": 11,
+                                                    "heightInCm": 13,
+                                                    "volumeInCc": 2178
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 264,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Mad Angles",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Tangy & Spicy, Unique Masala Blend.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/4a328181-53dc-4912-bb37-4b798719b663_203_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "99.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Munchies And Snacks",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "S3G9PZ9KUV",
+                                                "spinId": "8UQFZJK7TG",
+                                                "quantityDescription": "60 g x 3",
+                                                "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
+                                                "brandName": "Bingo",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/2c881ad3-4aeb-46fd-a251-10f6014d8638_9NOH4UTXN3_MN_17122025.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "60",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "59",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "32.8/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "1",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "1% OFF",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": [
+                                                            {
+                                                                "text": "1% OFF",
+                                                                "textColor": "colorPositive"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Chips",
+                                                "dimensions": {
+                                                    "lengthInCm": 16,
+                                                    "widthInCm": 11,
+                                                    "heightInCm": 13,
+                                                    "volumeInCc": 2178
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 198,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Snakes",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Tangy & Spicy, Unique Masala Blend.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/2c881ad3-4aeb-46fd-a251-10f6014d8638_9NOH4UTXN3_MN_17122025.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "99.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Munchies And Snacks",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "YN5Q16C9F5",
+                                                "spinId": "29J4V2O7YB",
+                                                "quantityDescription": "60 g x 2",
+                                                "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
+                                                "brandName": "Bingo",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/4a328181-53dc-4912-bb37-4b798719b663_203_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png"
+                                                ],
+                                                "listingVariant": false,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "40",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "33.3/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Chips",
+                                                "dimensions": {
+                                                    "lengthInCm": 16,
+                                                    "widthInCm": 11,
+                                                    "heightInCm": 13,
+                                                    "volumeInCc": 2178
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 132,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Mad Angles",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Unique Tangy & Spicy Snack Experience.",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/4a328181-53dc-4912-bb37-4b798719b663_203_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "99.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Munchies And Snacks",
+                                                "loudCallout": null
+                                            },
+                                            {
+                                                "skuId": "OO0D7RUTRR",
+                                                "spinId": "9NOH4UTXN3",
+                                                "quantityDescription": "60 g",
+                                                "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
+                                                "brandName": "Bingo",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/8a3bd757-efa7-49ba-8f88-1735fb01b2cb_203_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/936bf35e-eab9-4a90-a2f3-14bb8cc9b48c_203_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/fcd8c3c8-26ca-460d-8072-2534a4f8a134_203_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/c3bf45e0-86ca-4e9d-98ea-295e4abba9e0_203_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/11252908-c029-44ba-b562-f5dad93a2c39_203_5.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/806ab8f6-094e-4f25-978b-db522dfcb720_203_6.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/10085e9f-3138-4e9a-9b5c-5a1a899c0407_203_7.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "20",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "33.3/100 g",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Chips",
+                                                "dimensions": {
+                                                    "lengthInCm": 132,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 132
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 1,
+                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 66,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Mad Angles",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Tangy achaari-flavored crunchy chips",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/8a3bd757-efa7-49ba-8f88-1735fb01b2cb_203_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/936bf35e-eab9-4a90-a2f3-14bb8cc9b48c_203_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/fcd8c3c8-26ca-460d-8072-2534a4f8a134_203_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/c3bf45e0-86ca-4e9d-98ea-295e4abba9e0_203_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/11252908-c029-44ba-b562-f5dad93a2c39_203_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/806ab8f6-094e-4f25-978b-db522dfcb720_203_6.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/10085e9f-3138-4e9a-9b5c-5a1a899c0407_203_7.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "99.7k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Munchies And Snacks",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"OO0D7RUTRR\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "IKILKGXMS0",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "XR9GP1N5L0"
+                                    },
+                                    {
+                                        "displayName": "Munch King Size Chocolate Coated Wafer Bar",
+                                        "brand": "Munch",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "ZL09AZTGG3",
+                                                "spinId": "4MADS6N8DY",
+                                                "quantityDescription": "17.4 g",
+                                                "displayName": "Munch King Size Chocolate Coated Wafer Bar",
+                                                "brandName": "Munch",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/20eae731-d7a4-47ec-a4ef-f506e60d0faf_21302_1.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/41d0e335-9bd7-46a0-a0e5-16cf5f333f6d_21302_2.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/e8a65412-567e-4615-a0db-d1a74338bc19_21302_3.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/9875e3fc-e6d1-4cb3-9a6c-c7b64cad540f_21302_4.png",
+                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/b11e5649-cd0a-486c-92a7-8de4bc781308_21302_5.png"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "10",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "10",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Milk Chocolates",
+                                                "dimensions": {
+                                                    "lengthInCm": 0,
+                                                    "widthInCm": 1,
+                                                    "heightInCm": 1,
+                                                    "volumeInCc": 0
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 30,
+                                                    "quantityLimitBreachedMessage": "Only 30 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 0,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Wafer Bar",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Big choco-coated crunchy wafer bar",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/20eae731-d7a4-47ec-a4ef-f506e60d0faf_21302_1.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/41d0e335-9bd7-46a0-a0e5-16cf5f333f6d_21302_2.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/e8a65412-567e-4615-a0db-d1a74338bc19_21302_3.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/9875e3fc-e6d1-4cb3-9a6c-c7b64cad540f_21302_4.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/b11e5649-cd0a-486c-92a7-8de4bc781308_21302_5.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.6",
+                                                    "valueColor": "positive",
+                                                    "count": "113.2k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Chocolates",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"ZL09AZTGG3\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "X9A6CRIKXW",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "IQDB3JBBL8"
+                                    },
+                                    {
+                                        "displayName": "Thums Up Soft Drink",
+                                        "brand": "Thums Up",
+                                        "inStock": true,
+                                        "isAvail": true,
+                                        "variations": [
+                                            {
+                                                "skuId": "SNNGLJ77JU",
+                                                "spinId": "0KVQIR62J2",
+                                                "quantityDescription": "1 ltr",
+                                                "displayName": "Thums Up Soft Drink",
+                                                "brandName": "Thums Up",
+                                                "imageIds": [
+                                                    "NI_CATALOG/IMAGES/ciw/2026/2/11/b4a4143f-a217-46c2-bd88-f282f8566217_0KVQIR62J2_MN_11022026.png",
+                                                    "kxktb6ueputebav92jnw",
+                                                    "c2ricoyzhy5pbozjxoqh",
+                                                    "vdzncvahighgtuiydjrp"
+                                                ],
+                                                "listingVariant": true,
+                                                "superSaver": false,
+                                                "price": {
+                                                    "mrp": {
+                                                        "currencyCode": "INR",
+                                                        "units": "50",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerPrice": {
+                                                        "currencyCode": "INR",
+                                                        "units": "50",
+                                                        "nanos": 0
+                                                    },
+                                                    "unitLevelPrice": "",
+                                                    "discountValue": {
+                                                        "currencyCode": "INR",
+                                                        "units": "0",
+                                                        "nanos": 0
+                                                    },
+                                                    "offerApplied": {
+                                                        "listingDescription": "",
+                                                        "superOffer": false,
+                                                        "movThreshold": 0,
+                                                        "offerHighlights": []
+                                                    },
+                                                    "maxSaverPrice": null,
+                                                    "flashSalePriceDetails": null
+                                                },
+                                                "category": "Soft Drinks",
+                                                "dimensions": {
+                                                    "lengthInCm": 28,
+                                                    "widthInCm": 8,
+                                                    "heightInCm": 8,
+                                                    "volumeInCc": 1792
+                                                },
+                                                "slotInfo": {
+                                                    "isAvail": true,
+                                                    "message": ""
+                                                },
+                                                "cartAllowedQuantity": {
+                                                    "allowedQuantity": 6,
+                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
+                                                },
+                                                "inventory": {
+                                                    "inStock": true
+                                                },
+                                                "weightInGrams": 1,
+                                                "volumetricWeight": 0,
+                                                "subCategoryType": "Soft Drink",
+                                                "secondaryQuantityDescription": "",
+                                                "podId": "1402262",
+                                                "couponLessOffers": [],
+                                                "shortDescription": "Strong cola rush",
+                                                "externalPharmacyItem": false,
+                                                "rxRequired": false,
+                                                "variationTags": [],
+                                                "medias": [
+                                                    {
+                                                        "id": "NI_CATALOG/IMAGES/ciw/2026/2/11/b4a4143f-a217-46c2-bd88-f282f8566217_0KVQIR62J2_MN_11022026.png",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "kxktb6ueputebav92jnw",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "c2ricoyzhy5pbozjxoqh",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    },
+                                                    {
+                                                        "id": "vdzncvahighgtuiydjrp",
+                                                        "thumbnailId": "",
+                                                        "type": "MEDIA_TYPE_IMAGE",
+                                                        "aspectRatio": null
+                                                    }
+                                                ],
+                                                "attributeTags": [],
+                                                "rating": {
+                                                    "value": "4.5",
+                                                    "valueColor": "positive",
+                                                    "count": "3.3k",
+                                                    "backgroundColor": "#DFF9EE",
+                                                    "bgGradient": null,
+                                                    "ratingIconColor": "",
+                                                    "ratingCountTextColor": "",
+                                                    "ratingFontName": "FONT_NAME_INVALID",
+                                                    "ratingCountFontName": "FONT_NAME_INVALID"
+                                                },
+                                                "sla": null,
+                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                                                "emiInfo": null,
+                                                "aiAttributeTags": [],
+                                                "isWishlisted": false,
+                                                "offerCallouts": [],
+                                                "stealDealInfo": null,
+                                                "offerPanels": [],
+                                                "superCategory": "Cold Drinks and Juices",
+                                                "loudCallout": null
+                                            }
+                                        ],
+                                        "badges": [],
+                                        "source": "",
+                                        "analytics": {
+                                            "screenName": "",
+                                            "context": "{\"itemId\":\"SNNGLJ77JU\",\"slotAvailability\":true}",
+                                            "objectValue": "",
+                                            "impressionObjectName": "item-impression",
+                                            "clickObjectName": "click-item",
+                                            "attributionContext": "",
+                                            "extraFields": {
+                                                "skuAvailable": "true",
+                                                "storeIDflag": "PRIMARY"
+                                            },
+                                            "position": 0
+                                        },
+                                        "productId": "IU18PBM5VC",
+                                        "showQuantity": false,
+                                        "adTrackingContext": "",
+                                        "parentProductId": "VLL0NAJ1NY"
+                                    }
+                      ]
 
 export const Card5 =  [
                                     {
@@ -17424,5589 +23007,6 @@ export const Card2 =  [
                                     }
                       ]
 
-export const Card3 =  [
-                                    {
-                                        "displayName": "Supreme Harvest Crystal Sugar",
-                                        "brand": "Supreme Harvest",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "24YOMNQ982",
-                                                "spinId": "98DG1XN9O2",
-                                                "quantityDescription": "1 kg",
-                                                "displayName": "Supreme Harvest Crystal Sugar",
-                                                "brandName": "Supreme Harvest",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/3faec0c3-23e7-4595-a435-2fae25b97b69_98DG1XN9O2_MN_18122025.png",
-                                                    "akr52zfervvkfaqkofb6",
-                                                    "gutza5crwar7ahmwudzz"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "80",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "53",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "27",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "33% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "33% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Sugar",
-                                                "dimensions": {
-                                                    "lengthInCm": 23,
-                                                    "widthInCm": 15,
-                                                    "heightInCm": 2,
-                                                    "volumeInCc": 690
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 5,
-                                                    "quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1000,
-                                                "volumetricWeight": 690,
-                                                "subCategoryType": "Crystal Sugar",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Large crystal sugar for versatile use",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/3faec0c3-23e7-4595-a435-2fae25b97b69_98DG1XN9O2_MN_18122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "akr52zfervvkfaqkofb6",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "gutza5crwar7ahmwudzz",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "182.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Salt, Sugar and Jaggery",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"24YOMNQ982\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "2UDNQI8MR0",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "SX1UPX5JTP"
-                                    },
-                                    {
-                                        "displayName": "Fortune Refined Soybean Oil",
-                                        "brand": "Fortune",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "TRXAU0V11P",
-                                                "spinId": "VO6USDWP6W",
-                                                "quantityDescription": "750 g",
-                                                "displayName": "Fortune Refined Soybean Oil",
-                                                "brandName": "Fortune",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2026/2/18/4211cb92-b45e-4d92-afa9-43b5ac9b0be0_VO6USDWP6W_MN_18022026.png",
-                                                    "NI_CATALOG/IMAGES/ciw/2025/8/22/a1988ecc-a648-45fd-90a7-d85867818b8b_NPI-023344_2_20250822_064839.png",
-                                                    "NI_CATALOG/IMAGES/ciw/2025/8/22/6fa3751a-3063-4cba-a9ea-9a3d955ea084_NPI-023344_3_20250822_064839.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "155",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "127",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "28",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "18% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "18% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Edible Oils",
-                                                "dimensions": {
-                                                    "lengthInCm": 1500,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 1500
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 750,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2026/2/18/4211cb92-b45e-4d92-afa9-43b5ac9b0be0_VO6USDWP6W_MN_18022026.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/8/22/a1988ecc-a648-45fd-90a7-d85867818b8b_NPI-023344_2_20250822_064839.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/8/22/6fa3751a-3063-4cba-a9ea-9a3d955ea084_NPI-023344_3_20250822_064839.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "23.2k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Edible Oils and Ghee",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"TRXAU0V11P\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "C59SEFVRE0",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "BN5SAXJHF2"
-                                    },
-                                    {
-                                        "displayName": "Tender Coconut (Nariyal)",
-                                        "brand": "Fruits and Vegetables",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "XFB74UBADF",
-                                                "spinId": "ZZ6FZR67BB",
-                                                "quantityDescription": "1 Piece x 3",
-                                                "displayName": "Tender Coconut (Nariyal)",
-                                                "brandName": "Fruits and Vegetables",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/eafdfc16-c064-41bb-95c6-10606b6fca4f_357325_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": true,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "297",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "231",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "77/piece",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "66",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "22% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "22% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Fruits",
-                                                "dimensions": {
-                                                    "lengthInCm": 7,
-                                                    "widthInCm": 7,
-                                                    "heightInCm": 7,
-                                                    "volumeInCc": 343
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 6600,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Regular",
-                                                "secondaryQuantityDescription": "200 - 300 ml",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Hangxiety High? The nation’s official hydration IT support",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/eafdfc16-c064-41bb-95c6-10606b6fca4f_357325_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": null,
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Fruits and Vegetables",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "LK357K5IOY",
-                                                "spinId": "97VIJRXBA7",
-                                                "quantityDescription": "1 Piece",
-                                                "displayName": "Tender Coconut (Nariyal)",
-                                                "brandName": "Fruits and Vegetables",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/c2f95d2e-d4bf-440a-9f9a-216accd09324_97VIJRXBA7_MN_18122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "99",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "79",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "20% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "20% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Fruits",
-                                                "dimensions": {
-                                                    "lengthInCm": 7,
-                                                    "widthInCm": 7,
-                                                    "heightInCm": 7,
-                                                    "volumeInCc": 343
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 2200,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Regular",
-                                                "secondaryQuantityDescription": "200 - 300 ml",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Hangxiety High? The nation’s official hydration IT support",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/c2f95d2e-d4bf-440a-9f9a-216accd09324_97VIJRXBA7_MN_18122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": null,
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Fruits and Vegetables",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"LK357K5IOY\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "4RL2JFCWQG",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "NYZ1G84L5G"
-                                    },
-                                    {
-                                        "displayName": "Cadbury Dairy Milk Chocolate Bar",
-                                        "brand": "Cadbury",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "SRMVIFUVFD",
-                                                "spinId": "QC7I4I2H13",
-                                                "quantityDescription": "20.2 g x 2",
-                                                "displayName": "Cadbury Dairy Milk Chocolate Bar",
-                                                "brandName": "Cadbury",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/d537c42c-e294-4cf1-b8fc-eb0803496a67_590_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/5de9036a-972e-4de4-8e3f-39ecd4e6e9e0_590_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/31b38878-d43c-4936-90bc-2239f8cf9878_590_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/32c58d8f-fd1f-463e-aee1-82d94cb93f1d_590_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/21/a60e827b-6d5e-44c5-932d-82ca47f14a2d_590_5.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "99/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Milk Chocolates",
-                                                "dimensions": {
-                                                    "lengthInCm": 0,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 0
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 21,
-                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 0,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Chocolate",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Classic Treat, Smooth Chocolate.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/d537c42c-e294-4cf1-b8fc-eb0803496a67_590_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/5de9036a-972e-4de4-8e3f-39ecd4e6e9e0_590_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/31b38878-d43c-4936-90bc-2239f8cf9878_590_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/32c58d8f-fd1f-463e-aee1-82d94cb93f1d_590_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/21/a60e827b-6d5e-44c5-932d-82ca47f14a2d_590_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "93.4k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Chocolates",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "6NHRS0KHJ9",
-                                                "spinId": "UL5BWYO5O1",
-                                                "quantityDescription": "20.2 g",
-                                                "displayName": "Cadbury Dairy Milk Chocolate Bar",
-                                                "brandName": "Cadbury",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2026/2/18/23f7c2c5-38b1-421f-95c1-ebfa0f5fe381_UL5BWYO5O1_MN_18022026.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/27/8b712c90-6c0c-4456-87fb-a46aba71c833_590_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/27/b04f836c-a70a-4841-ae06-ba2b914a221a_590_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/27/713ddcbc-67af-4daf-9f56-b3aeb77112c6_590_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/10/27/cd592ba5-25cb-4c7a-9970-a3d345f0cb89_590_5.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "99/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Milk Chocolates",
-                                                "dimensions": {
-                                                    "lengthInCm": 0,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 0
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 0,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Chocolate Bar",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Classic Treat, Smooth Chocolate.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2026/2/18/23f7c2c5-38b1-421f-95c1-ebfa0f5fe381_UL5BWYO5O1_MN_18022026.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/27/8b712c90-6c0c-4456-87fb-a46aba71c833_590_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/27/b04f836c-a70a-4841-ae06-ba2b914a221a_590_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/27/713ddcbc-67af-4daf-9f56-b3aeb77112c6_590_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/10/27/cd592ba5-25cb-4c7a-9970-a3d345f0cb89_590_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "93.4k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Chocolates",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"6NHRS0KHJ9\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "ELU206V1ZK",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "2OGB7Y76S3"
-                                    },
-                                    {
-                                        "displayName": "Coca-Cola Diet Coke Can",
-                                        "brand": "Coca Cola",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "90Z31QQ7R5",
-                                                "spinId": "UKLMBIDIQH",
-                                                "quantityDescription": "300 ml x 6",
-                                                "displayName": "Coca-Cola Diet Coke Can",
-                                                "brandName": "Coca Cola",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
-                                                    "ack6aryynieswf9bmvsu",
-                                                    "hz64wtgry20igliar7pn"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": true,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "240",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "216",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "12/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "24",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "10% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "10% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Soft Drinks",
-                                                "dimensions": {
-                                                    "lengthInCm": 600,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 600
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 4,
-                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1800,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Soft Drink",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Low-calorie cola beverage",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "ack6aryynieswf9bmvsu",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "hz64wtgry20igliar7pn",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "75.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Cold Drinks and Juices",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "LFA1L33UFI",
-                                                "spinId": "A0D7GB0B8K",
-                                                "quantityDescription": "300 ml x 4",
-                                                "displayName": "Coca-Cola Diet Coke Can",
-                                                "brandName": "Coca Cola",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
-                                                    "ack6aryynieswf9bmvsu",
-                                                    "hz64wtgry20igliar7pn"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "160",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "160",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "13.3/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Soft Drinks",
-                                                "dimensions": {
-                                                    "lengthInCm": 600,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 600
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1200,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Soft Drink",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Sugar-free cola for a lighter refreshment.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "ack6aryynieswf9bmvsu",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "hz64wtgry20igliar7pn",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "75.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Cold Drinks and Juices",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "Y7RMZJG8ZB",
-                                                "spinId": "6W66L24IMW",
-                                                "quantityDescription": "300 ml x 2",
-                                                "displayName": "Coca-Cola Diet Coke Can",
-                                                "brandName": "Coca Cola",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
-                                                    "ack6aryynieswf9bmvsu",
-                                                    "hz64wtgry20igliar7pn"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "80",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "80",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "13.3/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Soft Drinks",
-                                                "dimensions": {
-                                                    "lengthInCm": 9,
-                                                    "widthInCm": 6,
-                                                    "heightInCm": 16,
-                                                    "volumeInCc": 921
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 600,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Soft Drink",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Sugar-free cola refreshment.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "ack6aryynieswf9bmvsu",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "hz64wtgry20igliar7pn",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "75.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Cold Drinks and Juices",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "7XVD2K3901",
-                                                "spinId": "FL5PODH1BP",
-                                                "quantityDescription": "300 ml",
-                                                "displayName": "Coca-Cola Diet Coke Can",
-                                                "brandName": "Coca Cola",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
-                                                    "ack6aryynieswf9bmvsu",
-                                                    "hz64wtgry20igliar7pn"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "13.3/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Soft Drinks",
-                                                "dimensions": {
-                                                    "lengthInCm": 600,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 600
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 300,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Soft Drink",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Light cola fizz",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/69bafb1f-5675-4c4a-b65b-995d2d9f1f50_210.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "ack6aryynieswf9bmvsu",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "hz64wtgry20igliar7pn",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "75.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Cold Drinks and Juices",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"90Z31QQ7R5\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "SKLNYNX61O",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "ECARNG1K2X"
-                                    },
-                                    {
-                                        "displayName": "Lay's Potato Chips - American Style Cream & Onion Flavour",
-                                        "brand": "Lay's",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "LU7V5F5Q6Q",
-                                                "spinId": "N22OSDNKJW",
-                                                "quantityDescription": "48 g x 2",
-                                                "displayName": "Lay's Potato Chips - American Style Cream & Onion Flavour",
-                                                "brandName": "Lay's",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/928e74af-ca07-48c3-8dc2-519dc1d8738c_5468_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/2dd7acea-7c5b-48c3-a0e9-00bedfb616e7_5468_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/b0021b6d-5b1d-4b0c-9b94-744906ea46a8_5468_3.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "41.7/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Chips",
-                                                "dimensions": {
-                                                    "lengthInCm": 4,
-                                                    "widthInCm": 4,
-                                                    "heightInCm": 4,
-                                                    "volumeInCc": 64
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 20,
-                                                    "quantityLimitBreachedMessage": "Only 20 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 100,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Chips",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Classic Cream & Onion, American Style.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/928e74af-ca07-48c3-8dc2-519dc1d8738c_5468_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/2dd7acea-7c5b-48c3-a0e9-00bedfb616e7_5468_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/b0021b6d-5b1d-4b0c-9b94-744906ea46a8_5468_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "131.3k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Munchies And Snacks",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "59QF1APWSY",
-                                                "spinId": "YZRJB72DST",
-                                                "quantityDescription": "48 g",
-                                                "displayName": "Lay's Potato Chips - American Style Cream & Onion Flavour",
-                                                "brandName": "Lay's",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/17/1b996836-cb76-48d7-bdc8-b44e3043a553_YZRJB72DST_MN_17122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/2dd7acea-7c5b-48c3-a0e9-00bedfb616e7_5468_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/12/30/65d6a556-ce1e-46a3-8010-60d850bf7cc6_5468_3.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "41.7/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Chips",
-                                                "dimensions": {
-                                                    "lengthInCm": 18,
-                                                    "widthInCm": 13,
-                                                    "heightInCm": 5,
-                                                    "volumeInCc": 1170
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 20,
-                                                    "quantityLimitBreachedMessage": "Only 20 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 50,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Potato Chips",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Classic American-style cream & onion chips",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/17/1b996836-cb76-48d7-bdc8-b44e3043a553_YZRJB72DST_MN_17122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/2dd7acea-7c5b-48c3-a0e9-00bedfb616e7_5468_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/12/30/65d6a556-ce1e-46a3-8010-60d850bf7cc6_5468_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "131.3k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Munchies And Snacks",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"59QF1APWSY\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "WBFHXIJV0Y",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "53FSW0WAOC"
-                                    },
-                                    {
-                                        "displayName": "Sunfeast Dark Fantasy Bourbon Classic Biscuit Made With Real Chocolate",
-                                        "brand": "Sunfeast Dark Fantasy",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "GUBCSORMA9",
-                                                "spinId": "2ZLN7LQX4O",
-                                                "quantityDescription": "108 g",
-                                                "displayName": "Sunfeast Dark Fantasy Bourbon Classic Biscuit Made With Real Chocolate",
-                                                "brandName": "Sunfeast Dark Fantasy",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/2f0c3c24-c964-4e72-bd05-1ded926045c5_2ZLN7LQX4O_MN_17122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/12/9/fe1cb8e8-57dd-4ff9-a579-9380448056db_15434_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/12/9/93611838-904f-4f70-9ed0-2db8537d8cfe_15434_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/12/9/98835a77-3a83-427c-899c-f8dbba3cb368_15434_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/12/9/c2c9c433-4435-42fa-a43b-32bcbc3ed71a_15434_6.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "30",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "18",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "12",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "40% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "40% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Cream Biscuits",
-                                                "dimensions": {
-                                                    "lengthInCm": 21,
-                                                    "widthInCm": 6,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 126
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 120,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Cream Biscuits",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Chocolate cream-filled sandwich biscuits",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/2f0c3c24-c964-4e72-bd05-1ded926045c5_2ZLN7LQX4O_MN_17122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/12/9/fe1cb8e8-57dd-4ff9-a579-9380448056db_15434_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/12/9/93611838-904f-4f70-9ed0-2db8537d8cfe_15434_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/12/9/98835a77-3a83-427c-899c-f8dbba3cb368_15434_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/12/9/c2c9c433-4435-42fa-a43b-32bcbc3ed71a_15434_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "152k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Biscuits and Cakes",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"GUBCSORMA9\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "YI28PVW4VI",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "J7BG0X9KEP"
-                                    },
-                                    {
-                                        "displayName": "Tata Salt, Iodised Namak, Vacuum Evaporated Salt",
-                                        "brand": "Tata",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "XFVCC3O2PC",
-                                                "spinId": "UEURIRMFHO",
-                                                "quantityDescription": "1 kg",
-                                                "displayName": "Tata Salt, Iodised Namak, Vacuum Evaporated Salt",
-                                                "brandName": "Tata",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/c8cab118-f23e-40e0-b2fb-5930938dca58_C69LKERDE8_MN_18122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/1/25/c2527651-7293-4d49-8948-46139ecb9192_242_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/1/25/1aa3bd3b-d089-4a1d-b4e5-16757e94bddc_242_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/1/25/d5cffaaa-070d-4516-870c-86c066a0e61a_242_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/8/25/40e7b9ed-3daa-43d9-be67-f502536dee45_242_5.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "30",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "27",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "3",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "10% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "10% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Salt",
-                                                "dimensions": {
-                                                    "lengthInCm": 2000,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 2000
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 38,
-                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1000,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Iodized Salt",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Pure & Iodised, Vacuum Evaporated Salt.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/c8cab118-f23e-40e0-b2fb-5930938dca58_C69LKERDE8_MN_18122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/1/25/c2527651-7293-4d49-8948-46139ecb9192_242_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/1/25/1aa3bd3b-d089-4a1d-b4e5-16757e94bddc_242_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/1/25/d5cffaaa-070d-4516-870c-86c066a0e61a_242_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/8/25/40e7b9ed-3daa-43d9-be67-f502536dee45_242_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "125.3k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Salt, Sugar and Jaggery",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"XFVCC3O2PC\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "5DMEFBCGC6",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "7E9C9TBE07"
-                                    },
-                                    {
-                                        "displayName": "Nescafe Cafe Style Cold Coffee, Iced Latte",
-                                        "brand": "Nescafe",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "HN8A2FTSLO",
-                                                "spinId": "0XAYQ3RHDP",
-                                                "quantityDescription": "170 ml x 3",
-                                                "displayName": "Nescafe Cafe Style Cold Coffee, Iced Latte",
-                                                "brandName": "Nescafe",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "150",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "138",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "27.1/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "12",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "8% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "8% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Milk Based Drinks",
-                                                "dimensions": {
-                                                    "lengthInCm": 340,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 340
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 510,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Latte",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.4",
-                                                    "valueColor": "positive",
-                                                    "count": "14.4k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Dairy, Bread and Eggs",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "ZHIGY6PTPD",
-                                                "spinId": "NJYOXA0V5Q",
-                                                "quantityDescription": "170 ml x 2",
-                                                "displayName": "Nescafe Cafe Style Cold Coffee, Iced Latte",
-                                                "brandName": "Nescafe",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": true,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "100",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "89",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "26.2/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "11",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "11% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "11% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Milk Based Drinks",
-                                                "dimensions": {
-                                                    "lengthInCm": 340,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 340
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 340,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Latte",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/08d7335c-eedf-491e-a51e-9eb5eb57aa7e_111529_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.4",
-                                                    "valueColor": "positive",
-                                                    "count": "14.4k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Dairy, Bread and Eggs",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "I11WNBC2B3",
-                                                "spinId": "TKUVNU3W03",
-                                                "quantityDescription": "170 ml",
-                                                "displayName": "Nescafe Cafe Style Cold Coffee, Iced Latte",
-                                                "brandName": "Nescafe",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/17/7b8a1549-5c1b-421d-8410-68a9d9b982c9_TKUVNU3W03_MN_16122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "50",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "47",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "27.6/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "3",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "6% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "6% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Milk Based Drinks",
-                                                "dimensions": {
-                                                    "lengthInCm": 340,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 340
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 170,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/17/7b8a1549-5c1b-421d-8410-68a9d9b982c9_TKUVNU3W03_MN_16122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/2ea91ade-a831-4fd6-9c41-77fe01dcbb12_111529_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/4/21/a04f6fc3-6f13-467a-a69e-c484745b2a6b_111529_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.4",
-                                                    "valueColor": "positive",
-                                                    "count": "14.4k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Dairy, Bread and Eggs",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"I11WNBC2B3\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "9D1V72V6P8",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "U9WRHSC6RE"
-                                    },
-                                    {
-                                        "displayName": "Rin Fabric Whitener Liquid Cleanser",
-                                        "brand": "Rin",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "B43GV7UU30",
-                                                "spinId": "1F45MOAF4H",
-                                                "quantityDescription": "500 ml x 3",
-                                                "displayName": "Rin Fabric Whitener Liquid Cleanser",
-                                                "brandName": "Rin",
-                                                "imageIds": [
-                                                    "b2715672704687cd120716307cb0a65e",
-                                                    "tdxgra3ijo4prxnk7bys"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "270",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "265",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "17.7/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "5",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "1% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "1% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Laundry Additives",
-                                                "dimensions": {
-                                                    "lengthInCm": 6,
-                                                    "widthInCm": 6,
-                                                    "heightInCm": 63,
-                                                    "volumeInCc": 2268
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 5,
-                                                    "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1500,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Fabric Whitener",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "b2715672704687cd120716307cb0a65e",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "tdxgra3ijo4prxnk7bys",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "10.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Cleaning Essentials",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "KPBF2C5JSS",
-                                                "spinId": "AKIY4W7GBJ",
-                                                "quantityDescription": "500 ml x 2",
-                                                "displayName": "Rin Fabric Whitener Liquid Cleanser",
-                                                "brandName": "Rin",
-                                                "imageIds": [
-                                                    "b2715672704687cd120716307cb0a65e",
-                                                    "tdxgra3ijo4prxnk7bys"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "180",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "180",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "18/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Laundry Additives",
-                                                "dimensions": {
-                                                    "lengthInCm": 16,
-                                                    "widthInCm": 11,
-                                                    "heightInCm": 9,
-                                                    "volumeInCc": 1584
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1000,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Fabric Whitener",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "b2715672704687cd120716307cb0a65e",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "tdxgra3ijo4prxnk7bys",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "10.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Cleaning Essentials",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "PZ0P44LFM6",
-                                                "spinId": "Q97A9TG961",
-                                                "quantityDescription": "500 ml",
-                                                "displayName": "Rin Fabric Whitener Liquid Cleanser",
-                                                "brandName": "Rin",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/bc868357-af90-42de-b99b-49322152ffd2_Q97A9TG961_MN_18122025.png",
-                                                    "tdxgra3ijo4prxnk7bys"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "90",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "90",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "18/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Laundry Additives",
-                                                "dimensions": {
-                                                    "lengthInCm": 6,
-                                                    "widthInCm": 6,
-                                                    "heightInCm": 21,
-                                                    "volumeInCc": 756
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 500,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Fabric Whitener",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Bright whites revived",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/bc868357-af90-42de-b99b-49322152ffd2_Q97A9TG961_MN_18122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "tdxgra3ijo4prxnk7bys",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "10.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Cleaning Essentials",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"PZ0P44LFM6\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "YUAPUWCYVS",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "CHWWF3NSJK"
-                                    },
-                                    {
-                                        "displayName": "Lay's India's Magic Masala Chips",
-                                        "brand": "Lay's",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "AVTWPCJZ3H",
-                                                "spinId": "K7KLQQBA39",
-                                                "quantityDescription": "48 g x 2",
-                                                "displayName": "Lay's India's Magic Masala Chips",
-                                                "brandName": "Lay's",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/a19b918c-0bad-4c0f-b751-48a8393e4bb0_673_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/66813f15-4c11-41d5-aa3b-fa6e93ad5867_673_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/904d5b1b-70f2-4fb2-bdca-8942159ef4ff_673_3.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "41.7/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Chips",
-                                                "dimensions": {
-                                                    "lengthInCm": 16,
-                                                    "widthInCm": 11,
-                                                    "heightInCm": 13,
-                                                    "volumeInCc": 2178
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 20,
-                                                    "quantityLimitBreachedMessage": "Only 20 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 100,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Potato Chips",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Authentic Masala, Savory Crunch.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/a19b918c-0bad-4c0f-b751-48a8393e4bb0_673_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/66813f15-4c11-41d5-aa3b-fa6e93ad5867_673_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/904d5b1b-70f2-4fb2-bdca-8942159ef4ff_673_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "126.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Munchies And Snacks",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "DCH1QSCH3D",
-                                                "spinId": "S9AE4DAA9O",
-                                                "quantityDescription": "48 g",
-                                                "displayName": "Lay's India's Magic Masala Chips",
-                                                "brandName": "Lay's",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/17/2d123adc-82ac-4e55-a6d6-1c2d414d3adb_S9AE4DAA9O_MN_17122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/66813f15-4c11-41d5-aa3b-fa6e93ad5867_673_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2024/8/1/904d5b1b-70f2-4fb2-bdca-8942159ef4ff_673_3.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "41.7/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Chips",
-                                                "dimensions": {
-                                                    "lengthInCm": 18,
-                                                    "widthInCm": 11,
-                                                    "heightInCm": 5,
-                                                    "volumeInCc": 990
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 20,
-                                                    "quantityLimitBreachedMessage": "Only 20 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 50,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Potato Chips",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Spicy and tangy potato chips.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/17/2d123adc-82ac-4e55-a6d6-1c2d414d3adb_S9AE4DAA9O_MN_17122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/66813f15-4c11-41d5-aa3b-fa6e93ad5867_673_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2024/8/1/904d5b1b-70f2-4fb2-bdca-8942159ef4ff_673_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "126.1k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Munchies And Snacks",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"DCH1QSCH3D\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "OVACG3I2JD",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "L6PN57SKTI"
-                                    },
-                                    {
-                                        "displayName": "Supreme Harvest Maida (Refined Wheat Flour)",
-                                        "brand": "Supreme Harvest",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "KT24QMO6NA",
-                                                "spinId": "CX3D54WD06",
-                                                "quantityDescription": "1 kg",
-                                                "displayName": "Supreme Harvest Maida (Refined Wheat Flour)",
-                                                "brandName": "Supreme Harvest",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/16/d4c59bc8-5299-4cdd-9c01-0b87376dfe5f_CX3D54WD06_MN_16122025.png",
-                                                    "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
-                                                    "d0ea1c898952f277cd12c5bf935dafad"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "90",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "49",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "41",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "45% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "45% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Besan, Sooji and Maida",
-                                                "dimensions": {
-                                                    "lengthInCm": 24,
-                                                    "widthInCm": 17,
-                                                    "heightInCm": 3,
-                                                    "volumeInCc": 1224
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1000,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Refined Wheat Flour",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Finely milled white flour for baking",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/16/d4c59bc8-5299-4cdd-9c01-0b87376dfe5f_CX3D54WD06_MN_16122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "d0ea1c898952f277cd12c5bf935dafad",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "18.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Atta, Rice and Dals",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"KT24QMO6NA\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "23V6E09P0A",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "F6SS5G6PNL"
-                                    },
-                                    {
-                                        "displayName": "Amul Pasteurised Butter",
-                                        "brand": "Amul",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "LSHCGIISLI",
-                                                "spinId": "7MXKNLXAT3",
-                                                "quantityDescription": "100 g x 4",
-                                                "displayName": "Amul Pasteurised Butter",
-                                                "brandName": "Amul",
-                                                "imageIds": [
-                                                    "emujgakbhef20bicfyn3",
-                                                    "f9bujyxtua3ejqxmvt34",
-                                                    "eayedfhiqgujj3xjyqao",
-                                                    "m3umpwackuj7dtyarouv",
-                                                    "zcreknzv9cxiqxidpqay",
-                                                    "en0kisjjj4pi2efthmmf"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "232",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "232",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "58/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Butter",
-                                                "dimensions": {
-                                                    "lengthInCm": 14,
-                                                    "widthInCm": 6,
-                                                    "heightInCm": 12,
-                                                    "volumeInCc": 1008
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 400,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Butter",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Pure & Creamy, Classic Butter.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "emujgakbhef20bicfyn3",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "f9bujyxtua3ejqxmvt34",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "eayedfhiqgujj3xjyqao",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "m3umpwackuj7dtyarouv",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "zcreknzv9cxiqxidpqay",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "en0kisjjj4pi2efthmmf",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "137.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Dairy, Bread and Eggs",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "34QQ8MACXK",
-                                                "spinId": "QD2Z47ZIIW",
-                                                "quantityDescription": "100 g x 3",
-                                                "displayName": "Amul Pasteurised Butter",
-                                                "brandName": "Amul",
-                                                "imageIds": [
-                                                    "emujgakbhef20bicfyn3",
-                                                    "f9bujyxtua3ejqxmvt34",
-                                                    "eayedfhiqgujj3xjyqao",
-                                                    "m3umpwackuj7dtyarouv",
-                                                    "zcreknzv9cxiqxidpqay",
-                                                    "en0kisjjj4pi2efthmmf"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "174",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "174",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "58/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Butter",
-                                                "dimensions": {
-                                                    "lengthInCm": 200,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 200
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 300,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Butter",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "emujgakbhef20bicfyn3",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "f9bujyxtua3ejqxmvt34",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "eayedfhiqgujj3xjyqao",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "m3umpwackuj7dtyarouv",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "zcreknzv9cxiqxidpqay",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "en0kisjjj4pi2efthmmf",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "137.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Dairy, Bread and Eggs",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "BQ33PRU9VX",
-                                                "spinId": "O4WS9UOMQ4",
-                                                "quantityDescription": "100 g",
-                                                "displayName": "Amul Pasteurised Butter",
-                                                "brandName": "Amul",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/17/e23ba089-96f4-4653-a9a7-f1ec890255ef_126_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/17/074ac313-7d8f-4325-9e88-e4bf62f26ac1_126_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/17/19f6c687-a7bb-468b-9161-74687da0457b_126_4.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "58",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "58",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Butter",
-                                                "dimensions": {
-                                                    "lengthInCm": 200,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 200
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 100,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Butter",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Fresh and creamy pasteurized butter",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/17/e23ba089-96f4-4653-a9a7-f1ec890255ef_126_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/17/074ac313-7d8f-4325-9e88-e4bf62f26ac1_126_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/17/19f6c687-a7bb-468b-9161-74687da0457b_126_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "137.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Dairy, Bread and Eggs",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"BQ33PRU9VX\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "TN0BERMP8A",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "82S8AX96LS"
-                                    },
-                                    {
-                                        "displayName": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
-                                        "brand": "Maggi",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "SQG8YL032I",
-                                                "spinId": "L5XS0G5W34",
-                                                "quantityDescription": "300 g x 4",
-                                                "displayName": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
-                                                "brandName": "Maggi",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/1a7eb2d6-cfdb-4243-9de7-feaa3c1992e2_82_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/bf596ad9-9c36-499d-ba39-ca1aac35c672_82_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/afafc8a7-8e29-4fa6-bccf-1e72992b5851_82_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/deb77b56-0947-4667-a1c2-afd23d17cb1a_82_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/64f28777-e7d6-4cab-a17c-c8e9562ce876_82_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/c546ab5b-b476-48ac-a5fc-d21fdda75635_82_6.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "232",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "232",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "19.3/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Noodles and Vermicelli",
-                                                "dimensions": {
-                                                    "lengthInCm": 16,
-                                                    "widthInCm": 42,
-                                                    "heightInCm": 4,
-                                                    "volumeInCc": 2688
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1200,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Instant Noodles",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Enjoy your favourite Masala taste",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/1a7eb2d6-cfdb-4243-9de7-feaa3c1992e2_82_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/bf596ad9-9c36-499d-ba39-ca1aac35c672_82_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/afafc8a7-8e29-4fa6-bccf-1e72992b5851_82_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/deb77b56-0947-4667-a1c2-afd23d17cb1a_82_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/64f28777-e7d6-4cab-a17c-c8e9562ce876_82_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/c546ab5b-b476-48ac-a5fc-d21fdda75635_82_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "124.2k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Instant Food and Frozen Food",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "IVB13VKXV2",
-                                                "spinId": "XR43QFU3UY",
-                                                "quantityDescription": "300 g x 2",
-                                                "displayName": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
-                                                "brandName": "Maggi",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/1a7eb2d6-cfdb-4243-9de7-feaa3c1992e2_82_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/bf596ad9-9c36-499d-ba39-ca1aac35c672_82_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/afafc8a7-8e29-4fa6-bccf-1e72992b5851_82_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/deb77b56-0947-4667-a1c2-afd23d17cb1a_82_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/64f28777-e7d6-4cab-a17c-c8e9562ce876_82_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/5/10/c546ab5b-b476-48ac-a5fc-d21fdda75635_82_6.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "116",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "116",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "19.3/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Noodles and Vermicelli",
-                                                "dimensions": {
-                                                    "lengthInCm": 13,
-                                                    "widthInCm": 10,
-                                                    "heightInCm": 9,
-                                                    "volumeInCc": 1170
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 600,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Instant Noodles",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Enjoy your favourite Masala taste",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/1a7eb2d6-cfdb-4243-9de7-feaa3c1992e2_82_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/bf596ad9-9c36-499d-ba39-ca1aac35c672_82_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/afafc8a7-8e29-4fa6-bccf-1e72992b5851_82_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/deb77b56-0947-4667-a1c2-afd23d17cb1a_82_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/64f28777-e7d6-4cab-a17c-c8e9562ce876_82_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/5/10/c546ab5b-b476-48ac-a5fc-d21fdda75635_82_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "124.2k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Instant Food and Frozen Food",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "8646DZ7L7A",
-                                                "spinId": "C065XMRW6S",
-                                                "quantityDescription": "300 g",
-                                                "displayName": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
-                                                "brandName": "Maggi",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/4785f6b4-5e4e-4e4e-8f59-82e6493060dd_82_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/4f05d9eb-a145-460a-a1e6-a95afe74c28c_82_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/947e607b-838c-4693-a4ae-a6b7ffd76898_82_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/00d85d10-ac49-4c3d-bd5b-3aafd73f0777_82_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/000fe5c6-00be-4068-a94e-3200f9410824_82_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/0dadf151-b2d0-4544-a8d7-a428876c9c4c_82_6.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/11/c474c7ad-0b80-4665-9176-c7b303022c68_82_7.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "58",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "58",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "19.3/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Noodles and Vermicelli",
-                                                "dimensions": {
-                                                    "lengthInCm": 600,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 600
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 300,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Instant Noodles",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Enjoy your favourite Masala taste",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/4785f6b4-5e4e-4e4e-8f59-82e6493060dd_82_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/4f05d9eb-a145-460a-a1e6-a95afe74c28c_82_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/947e607b-838c-4693-a4ae-a6b7ffd76898_82_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/00d85d10-ac49-4c3d-bd5b-3aafd73f0777_82_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/000fe5c6-00be-4068-a94e-3200f9410824_82_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/0dadf151-b2d0-4544-a8d7-a428876c9c4c_82_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/11/c474c7ad-0b80-4665-9176-c7b303022c68_82_7.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "124.2k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Instant Food and Frozen Food",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"8646DZ7L7A\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "PP8VVOYNES",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "DVGN0VN593"
-                                    },
-                                    {
-                                        "displayName": "Britannia Good Day Chunkies Chocolate Chip Cookies",
-                                        "brand": "Britannia",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "JTV303MAY6",
-                                                "spinId": "7P9W21ISIN",
-                                                "quantityDescription": "75 g",
-                                                "displayName": "Britannia Good Day Chunkies Chocolate Chip Cookies",
-                                                "brandName": "Britannia",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/4bf68a0e-8cd0-4cab-8663-524823b1f417_7P9W21ISIN_MN_17122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/cf2462d3-7fae-4d4e-b892-5899e64353db_2871_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/aefd9df6-7ee7-4f8a-b625-dbce25e8de43_2871_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/643f4327-371b-4145-b24a-96efe188c89f_2871_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/32ed6ae1-d836-483a-aeac-03d73f5886c4_2871_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/7/17/e3c6310e-6ada-4c2e-84d6-856b6a41c841_2871_6.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "37",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "3",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "7% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "7% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Cookies",
-                                                "dimensions": {
-                                                    "lengthInCm": 20,
-                                                    "widthInCm": 15,
-                                                    "heightInCm": 5,
-                                                    "volumeInCc": 1500
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 75,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Cookies",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/4bf68a0e-8cd0-4cab-8663-524823b1f417_7P9W21ISIN_MN_17122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/cf2462d3-7fae-4d4e-b892-5899e64353db_2871_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/aefd9df6-7ee7-4f8a-b625-dbce25e8de43_2871_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/643f4327-371b-4145-b24a-96efe188c89f_2871_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/32ed6ae1-d836-483a-aeac-03d73f5886c4_2871_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/7/17/e3c6310e-6ada-4c2e-84d6-856b6a41c841_2871_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "12k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Biscuits and Cakes",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"JTV303MAY6\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "T4KMOY115U",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "U3BUG4L92H"
-                                    },
-                                    {
-                                        "displayName": "Amul Frostik Chocolate Ice Cream Stick",
-                                        "brand": "Amul",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "SFMJJZP1BB",
-                                                "spinId": "3YFLFIV5CY",
-                                                "quantityDescription": "70 ml x 6",
-                                                "displayName": "Amul Frostik Chocolate Ice Cream Stick",
-                                                "brandName": "Amul",
-                                                "imageIds": [
-                                                    "d9868befa92ae14bb5fe4069ced491c6",
-                                                    "fa024ed7c63e97160bbb8019f92b1488",
-                                                    "58dbf1e4cd95d124455340af58684331"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "180",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "180",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "42.9/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Ice Creams",
-                                                "dimensions": {
-                                                    "lengthInCm": 22,
-                                                    "widthInCm": 11,
-                                                    "heightInCm": 20,
-                                                    "volumeInCc": 4840
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 420,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "d9868befa92ae14bb5fe4069ced491c6",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "fa024ed7c63e97160bbb8019f92b1488",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "58dbf1e4cd95d124455340af58684331",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.1",
-                                                    "valueColor": "positive",
-                                                    "count": "46.4k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Ice Cream and Indian Sweets",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "RBOT0Y9UJN",
-                                                "spinId": "9Y78P3GQK0",
-                                                "quantityDescription": "70 ml x 3",
-                                                "displayName": "Amul Frostik Chocolate Ice Cream Stick",
-                                                "brandName": "Amul",
-                                                "imageIds": [
-                                                    "d9868befa92ae14bb5fe4069ced491c6",
-                                                    "fa024ed7c63e97160bbb8019f92b1488",
-                                                    "58dbf1e4cd95d124455340af58684331"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": true,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "90",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "88",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "41.9/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "2",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "2% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "2% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Ice Creams",
-                                                "dimensions": {
-                                                    "lengthInCm": 22,
-                                                    "widthInCm": 11,
-                                                    "heightInCm": 20,
-                                                    "volumeInCc": 4840
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 210,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "d9868befa92ae14bb5fe4069ced491c6",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "fa024ed7c63e97160bbb8019f92b1488",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "58dbf1e4cd95d124455340af58684331",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.1",
-                                                    "valueColor": "positive",
-                                                    "count": "46.4k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Ice Cream and Indian Sweets",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "JD7Y1D2OOC",
-                                                "spinId": "K065I9TA8S",
-                                                "quantityDescription": "70 ml",
-                                                "displayName": "Amul Frostik Chocolate Ice Cream Stick",
-                                                "brandName": "Amul",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2026/2/11/c0dad784-2a3b-40f1-8a54-c79df8930fab_K065I9TA8S_MN_11022026.png",
-                                                    "fa024ed7c63e97160bbb8019f92b1488",
-                                                    "58dbf1e4cd95d124455340af58684331"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "30",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "30",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "42.9/100 ml",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Ice Creams",
-                                                "dimensions": {
-                                                    "lengthInCm": 6,
-                                                    "widthInCm": 6,
-                                                    "heightInCm": 10,
-                                                    "volumeInCc": 360
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 70,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2026/2/11/c0dad784-2a3b-40f1-8a54-c79df8930fab_K065I9TA8S_MN_11022026.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "fa024ed7c63e97160bbb8019f92b1488",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "58dbf1e4cd95d124455340af58684331",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.1",
-                                                    "valueColor": "positive",
-                                                    "count": "46.4k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Ice Cream and Indian Sweets",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"JD7Y1D2OOC\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "XD5TK3AL01",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "U2BBXSSYEB"
-                                    },
-                                    {
-                                        "displayName": "Britannia Fudge It Chocolate Brownie Cake",
-                                        "brand": "Britannia",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "37X5G2RO7M",
-                                                "spinId": "10I7IQPG2G",
-                                                "quantityDescription": "120 g x 3",
-                                                "displayName": "Britannia Fudge It Chocolate Brownie Cake",
-                                                "brandName": "Britannia",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/80e2396a-1bc9-4cfe-9540-2a8b99bc93ef_14007_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": true,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "240",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "172",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "47.8/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "68",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "28% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "28% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Cakes and Pies",
-                                                "dimensions": {
-                                                    "lengthInCm": 13,
-                                                    "widthInCm": 9,
-                                                    "heightInCm": 9,
-                                                    "volumeInCc": 1053
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 360,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Brownie",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Gooey chocolate brownie-style cake",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/80e2396a-1bc9-4cfe-9540-2a8b99bc93ef_14007_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.4",
-                                                    "valueColor": "positive",
-                                                    "count": "31.3k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Biscuits and Cakes",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "KC2XCOX1F6",
-                                                "spinId": "UR5YR279LC",
-                                                "quantityDescription": "120 g x 2",
-                                                "displayName": "Britannia Fudge It Chocolate Brownie Cake",
-                                                "brandName": "Britannia",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/80e2396a-1bc9-4cfe-9540-2a8b99bc93ef_14007_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "160",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "118",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "49.2/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "42",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "26% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "26% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Cakes and Pies",
-                                                "dimensions": {
-                                                    "lengthInCm": 13,
-                                                    "widthInCm": 9,
-                                                    "heightInCm": 10,
-                                                    "volumeInCc": 1170
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 240,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Brownie",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Indulge in fudgy chocolate brownie bliss.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/80e2396a-1bc9-4cfe-9540-2a8b99bc93ef_14007_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.4",
-                                                    "valueColor": "positive",
-                                                    "count": "31.3k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Biscuits and Cakes",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "GZBBLKD5PY",
-                                                "spinId": "UZ8V5A7PDG",
-                                                "quantityDescription": "120 g",
-                                                "displayName": "Britannia Fudge It Chocolate Brownie Cake",
-                                                "brandName": "Britannia",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/ebf2b0aa-fb37-4659-8d4c-b0959131a334_UZ8V5A7PDG_MN_17122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "80",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "59",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "49.2/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "21",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "26% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "26% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Cakes and Pies",
-                                                "dimensions": {
-                                                    "lengthInCm": 240,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 240
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 120,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Cake",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Rich fudgy slice",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/ebf2b0aa-fb37-4659-8d4c-b0959131a334_UZ8V5A7PDG_MN_17122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/2f76d1ae-ff25-4e58-8913-fcadb2d7b7a2_14007_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/f569f1ff-9f2c-4b12-8b24-edcaf00e1728_14007_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/82faa43e-a589-4fff-8db5-b8254d546c18_14007_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/19c8b398-2e6d-4c7a-98c1-ce7f1b3d1e85_14007_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/30/ec17f166-3ab8-4c73-b4d1-9d157397b1c1_14007_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.4",
-                                                    "valueColor": "positive",
-                                                    "count": "31.3k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Biscuits and Cakes",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"GZBBLKD5PY\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "RAH3FXA3US",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "Y9088YU3IU"
-                                    },
-                                    {
-                                        "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
-                                        "brand": "Bingo",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "7DRBRAWZ4Z",
-                                                "spinId": "FVDR25BAF9",
-                                                "quantityDescription": "60 g x 4",
-                                                "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
-                                                "brandName": "Bingo",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/4a328181-53dc-4912-bb37-4b798719b663_203_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "80",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "80",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "33.3/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Chips",
-                                                "dimensions": {
-                                                    "lengthInCm": 16,
-                                                    "widthInCm": 11,
-                                                    "heightInCm": 13,
-                                                    "volumeInCc": 2178
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 264,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Mad Angles",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Tangy & Spicy, Unique Masala Blend.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/4a328181-53dc-4912-bb37-4b798719b663_203_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "99.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Munchies And Snacks",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "S3G9PZ9KUV",
-                                                "spinId": "8UQFZJK7TG",
-                                                "quantityDescription": "60 g x 3",
-                                                "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
-                                                "brandName": "Bingo",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2025/12/18/2c881ad3-4aeb-46fd-a251-10f6014d8638_9NOH4UTXN3_MN_17122025.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "60",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "59",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "32.8/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "1",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "1% OFF",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": [
-                                                            {
-                                                                "text": "1% OFF",
-                                                                "textColor": "colorPositive"
-                                                            }
-                                                        ]
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Chips",
-                                                "dimensions": {
-                                                    "lengthInCm": 16,
-                                                    "widthInCm": 11,
-                                                    "heightInCm": 13,
-                                                    "volumeInCc": 2178
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 198,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Snakes",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Tangy & Spicy, Unique Masala Blend.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2025/12/18/2c881ad3-4aeb-46fd-a251-10f6014d8638_9NOH4UTXN3_MN_17122025.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "99.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Munchies And Snacks",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "YN5Q16C9F5",
-                                                "spinId": "29J4V2O7YB",
-                                                "quantityDescription": "60 g x 2",
-                                                "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
-                                                "brandName": "Bingo",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/4a328181-53dc-4912-bb37-4b798719b663_203_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png"
-                                                ],
-                                                "listingVariant": false,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "40",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "33.3/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Chips",
-                                                "dimensions": {
-                                                    "lengthInCm": 16,
-                                                    "widthInCm": 11,
-                                                    "heightInCm": 13,
-                                                    "volumeInCc": 2178
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 132,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Mad Angles",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Unique Tangy & Spicy Snack Experience.",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/4a328181-53dc-4912-bb37-4b798719b663_203_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/6575c417-9fac-4386-b889-47a4ee18b807_203_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/be84c233-a42a-4635-9460-c48f56a6cd39_203_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/fb445956-0654-429a-a581-7838fdcf9408_203_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/68731dbf-afa7-4e58-91d1-e5d4e566de8b_203_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2025/6/24/0b881191-d057-45cc-a6cb-f6766992bec3_203_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "99.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Munchies And Snacks",
-                                                "loudCallout": null
-                                            },
-                                            {
-                                                "skuId": "OO0D7RUTRR",
-                                                "spinId": "9NOH4UTXN3",
-                                                "quantityDescription": "60 g",
-                                                "displayName": "Bingo Mad Angles Achaari Masti Masala Crisps",
-                                                "brandName": "Bingo",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/8a3bd757-efa7-49ba-8f88-1735fb01b2cb_203_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/936bf35e-eab9-4a90-a2f3-14bb8cc9b48c_203_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/fcd8c3c8-26ca-460d-8072-2534a4f8a134_203_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/c3bf45e0-86ca-4e9d-98ea-295e4abba9e0_203_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/11252908-c029-44ba-b562-f5dad93a2c39_203_5.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/806ab8f6-094e-4f25-978b-db522dfcb720_203_6.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/2/18/10085e9f-3138-4e9a-9b5c-5a1a899c0407_203_7.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "20",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "33.3/100 g",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Chips",
-                                                "dimensions": {
-                                                    "lengthInCm": 132,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 132
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 1,
-                                                    "quantityLimitBreachedMessage": "Only 1 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 66,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Mad Angles",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Tangy achaari-flavored crunchy chips",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/8a3bd757-efa7-49ba-8f88-1735fb01b2cb_203_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/936bf35e-eab9-4a90-a2f3-14bb8cc9b48c_203_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/fcd8c3c8-26ca-460d-8072-2534a4f8a134_203_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/c3bf45e0-86ca-4e9d-98ea-295e4abba9e0_203_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/11252908-c029-44ba-b562-f5dad93a2c39_203_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/806ab8f6-094e-4f25-978b-db522dfcb720_203_6.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/2/18/10085e9f-3138-4e9a-9b5c-5a1a899c0407_203_7.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "99.7k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Munchies And Snacks",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"OO0D7RUTRR\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "IKILKGXMS0",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "XR9GP1N5L0"
-                                    },
-                                    {
-                                        "displayName": "Munch King Size Chocolate Coated Wafer Bar",
-                                        "brand": "Munch",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "ZL09AZTGG3",
-                                                "spinId": "4MADS6N8DY",
-                                                "quantityDescription": "17.4 g",
-                                                "displayName": "Munch King Size Chocolate Coated Wafer Bar",
-                                                "brandName": "Munch",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/20eae731-d7a4-47ec-a4ef-f506e60d0faf_21302_1.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/41d0e335-9bd7-46a0-a0e5-16cf5f333f6d_21302_2.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/e8a65412-567e-4615-a0db-d1a74338bc19_21302_3.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/9875e3fc-e6d1-4cb3-9a6c-c7b64cad540f_21302_4.png",
-                                                    "NI_CATALOG/IMAGES/CIW/2026/1/19/b11e5649-cd0a-486c-92a7-8de4bc781308_21302_5.png"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "10",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "10",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Milk Chocolates",
-                                                "dimensions": {
-                                                    "lengthInCm": 0,
-                                                    "widthInCm": 1,
-                                                    "heightInCm": 1,
-                                                    "volumeInCc": 0
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 30,
-                                                    "quantityLimitBreachedMessage": "Only 30 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 0,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Wafer Bar",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Big choco-coated crunchy wafer bar",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/20eae731-d7a4-47ec-a4ef-f506e60d0faf_21302_1.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/41d0e335-9bd7-46a0-a0e5-16cf5f333f6d_21302_2.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/e8a65412-567e-4615-a0db-d1a74338bc19_21302_3.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/9875e3fc-e6d1-4cb3-9a6c-c7b64cad540f_21302_4.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/CIW/2026/1/19/b11e5649-cd0a-486c-92a7-8de4bc781308_21302_5.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.6",
-                                                    "valueColor": "positive",
-                                                    "count": "113.2k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Chocolates",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"ZL09AZTGG3\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "X9A6CRIKXW",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "IQDB3JBBL8"
-                                    },
-                                    {
-                                        "displayName": "Thums Up Soft Drink",
-                                        "brand": "Thums Up",
-                                        "inStock": true,
-                                        "isAvail": true,
-                                        "variations": [
-                                            {
-                                                "skuId": "SNNGLJ77JU",
-                                                "spinId": "0KVQIR62J2",
-                                                "quantityDescription": "1 ltr",
-                                                "displayName": "Thums Up Soft Drink",
-                                                "brandName": "Thums Up",
-                                                "imageIds": [
-                                                    "NI_CATALOG/IMAGES/ciw/2026/2/11/b4a4143f-a217-46c2-bd88-f282f8566217_0KVQIR62J2_MN_11022026.png",
-                                                    "kxktb6ueputebav92jnw",
-                                                    "c2ricoyzhy5pbozjxoqh",
-                                                    "vdzncvahighgtuiydjrp"
-                                                ],
-                                                "listingVariant": true,
-                                                "superSaver": false,
-                                                "price": {
-                                                    "mrp": {
-                                                        "currencyCode": "INR",
-                                                        "units": "50",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerPrice": {
-                                                        "currencyCode": "INR",
-                                                        "units": "50",
-                                                        "nanos": 0
-                                                    },
-                                                    "unitLevelPrice": "",
-                                                    "discountValue": {
-                                                        "currencyCode": "INR",
-                                                        "units": "0",
-                                                        "nanos": 0
-                                                    },
-                                                    "offerApplied": {
-                                                        "listingDescription": "",
-                                                        "superOffer": false,
-                                                        "movThreshold": 0,
-                                                        "offerHighlights": []
-                                                    },
-                                                    "maxSaverPrice": null,
-                                                    "flashSalePriceDetails": null
-                                                },
-                                                "category": "Soft Drinks",
-                                                "dimensions": {
-                                                    "lengthInCm": 28,
-                                                    "widthInCm": 8,
-                                                    "heightInCm": 8,
-                                                    "volumeInCc": 1792
-                                                },
-                                                "slotInfo": {
-                                                    "isAvail": true,
-                                                    "message": ""
-                                                },
-                                                "cartAllowedQuantity": {
-                                                    "allowedQuantity": 6,
-                                                    "quantityLimitBreachedMessage": "Only 6 unit(s) of this item can be added per order."
-                                                },
-                                                "inventory": {
-                                                    "inStock": true
-                                                },
-                                                "weightInGrams": 1,
-                                                "volumetricWeight": 0,
-                                                "subCategoryType": "Soft Drink",
-                                                "secondaryQuantityDescription": "",
-                                                "podId": "1402262",
-                                                "couponLessOffers": [],
-                                                "shortDescription": "Strong cola rush",
-                                                "externalPharmacyItem": false,
-                                                "rxRequired": false,
-                                                "variationTags": [],
-                                                "medias": [
-                                                    {
-                                                        "id": "NI_CATALOG/IMAGES/ciw/2026/2/11/b4a4143f-a217-46c2-bd88-f282f8566217_0KVQIR62J2_MN_11022026.png",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "kxktb6ueputebav92jnw",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "c2ricoyzhy5pbozjxoqh",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    },
-                                                    {
-                                                        "id": "vdzncvahighgtuiydjrp",
-                                                        "thumbnailId": "",
-                                                        "type": "MEDIA_TYPE_IMAGE",
-                                                        "aspectRatio": null
-                                                    }
-                                                ],
-                                                "attributeTags": [],
-                                                "rating": {
-                                                    "value": "4.5",
-                                                    "valueColor": "positive",
-                                                    "count": "3.3k",
-                                                    "backgroundColor": "#DFF9EE",
-                                                    "bgGradient": null,
-                                                    "ratingIconColor": "",
-                                                    "ratingCountTextColor": "",
-                                                    "ratingFontName": "FONT_NAME_INVALID",
-                                                    "ratingCountFontName": "FONT_NAME_INVALID"
-                                                },
-                                                "sla": null,
-                                                "vegClassifier": "VEG_CLASSIFIER_INVALID",
-                                                "emiInfo": null,
-                                                "aiAttributeTags": [],
-                                                "isWishlisted": false,
-                                                "offerCallouts": [],
-                                                "stealDealInfo": null,
-                                                "offerPanels": [],
-                                                "superCategory": "Cold Drinks and Juices",
-                                                "loudCallout": null
-                                            }
-                                        ],
-                                        "badges": [],
-                                        "source": "",
-                                        "analytics": {
-                                            "screenName": "",
-                                            "context": "{\"itemId\":\"SNNGLJ77JU\",\"slotAvailability\":true}",
-                                            "objectValue": "",
-                                            "impressionObjectName": "item-impression",
-                                            "clickObjectName": "click-item",
-                                            "attributionContext": "",
-                                            "extraFields": {
-                                                "skuAvailable": "true",
-                                                "storeIDflag": "PRIMARY"
-                                            },
-                                            "position": 0
-                                        },
-                                        "productId": "IU18PBM5VC",
-                                        "showQuantity": false,
-                                        "adTrackingContext": "",
-                                        "parentProductId": "VLL0NAJ1NY"
-                                    }
-                      ]
-
 export const Card9 = [
                                     {
                                         "id": "6903b01ed2c61b000112ba29",
@@ -26099,3 +26099,12 @@ export const Card13 = [
                                         "borderStyle": null
                                     }
                       ]
+
+export const allCardsClick = [
+    Card1,
+    Card3,
+    Card5,
+    Card6,
+    Card7,
+    Card8,
+]                      
