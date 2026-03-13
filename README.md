@@ -123,8 +123,6 @@ Redux is used for:
 
 ---
 
----
-
 # ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -191,6 +189,9 @@ http://localhost:3000
 
 ## 🍷 Dineout
 <img src="Screenshots/Dineout.png" width="900"/>
+
+---
+
 # 📈 Future Improvements
 
 - Mobile responsive design
