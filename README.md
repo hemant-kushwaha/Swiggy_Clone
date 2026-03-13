@@ -8,6 +8,11 @@ Since the official API blocks external requests due to CORS restrictions, a thir
 
 This project focuses on building **scalable frontend architecture**, handling **complex UI states**, and implementing **real-world frontend features**.
 
+⚠️ **Disclaimer**
+
+This project is for educational purposes only and is not affiliated with Swiggy.  
+All trademarks and API data belong to Swiggy.
+
 ---
 
 # 🚀 Live Demo
