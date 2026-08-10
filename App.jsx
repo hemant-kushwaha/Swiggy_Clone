@@ -15,11 +15,11 @@ import DineRestaurant from "./src/components/Restaurants/Dineout/DineRestaurant"
 import ScrollToTop from "./src/components/ScrollToTop/ScrollToTop"
 import Instamart from './src/components/Instamart/Instamart';
 import InstamartItem from "./src/components/Instamart/InstamartItem";
-import ScreenGuard from "./src/components/ScreenGuard/ScreenGuard";
+// import ScreenGuard from "./src/components/ScreenGuard/ScreenGuard";
 
 function App () {
     return(
-        <ScreenGuard>
+
         <Provider store={store}>
         <BrowserRouter>
         <ScrollToTop></ScrollToTop>
@@ -40,7 +40,7 @@ function App () {
         </Routes>
         </BrowserRouter>
         </Provider>
-        </ScreenGuard>
+
     )
 }
 
