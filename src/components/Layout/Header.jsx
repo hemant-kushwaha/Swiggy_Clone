@@ -8,8 +8,8 @@ export default function Header () {
     return(
         <>
         <header className="bg-[#ff5200] font-serif">
-            <div className=""flex flex-col sm:flex-row justify-between items-center
-                max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5"">
+            <div className="flex flex-col sm:flex-row justify-between items-center
+                max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
                  <img className="w-40 h-12" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/static-assets/images/swiggy_logo_white.png" alt="swiggy logo" />
                  <nav className="text-white text-sm lg:text-base font-bold
                 flex flex-wrap justify-center gap-4 lg:gap-8 items-center mt-5 sm:mt-0">
