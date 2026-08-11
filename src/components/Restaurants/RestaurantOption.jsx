@@ -41,7 +41,7 @@ export default function RestaurantOption () {
 
     return(
         <>
-        <div className="w-[80%] mx-auto mt-5">
+        <div className= "w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-5">
               <div className="text-2xl font-bold">{RestData?.data?.cards[0]?.card?.card?.header?.title}</div>
               <div className="flex mx-auto h-50 gap-5 flex-nowrap overflow-x-auto scrollbar-hide">            
                  {FoodData?.map((item)=>(
