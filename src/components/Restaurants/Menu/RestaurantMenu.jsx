@@ -45,7 +45,7 @@ export default function RestaurantMenu (){
     return(
         <div> 
                 
-            <div className="w-[60%] mt-5 mx-auto ">
+            <div className= "w-full max-w-4xl mx-auto px-4 sm:px-6 lg:px-0 mt-5">
                 <div className="flex text-[12px] text-gray-500 ">                                   
                     <Link to={"/"}>  <div>{"Home / "}</div></Link>
                     <div>{" Lucknow /"}</div>
@@ -124,7 +124,7 @@ export default function RestaurantMenu (){
                 </Link>
             </div> 
             {/* Veg-Nonveg */}
-            <div className="w-[60%] mt-20 mb-10 mx-auto ">
+            <div className= "w-full max-w-4xl px-4 sm:px-6 mx-auto mt-10 sm:mt-20 mb-10">
                <button className={`text-md px-2 py-1 border-gray-400 mr-2 rounded-lg border ${selected === "veg"? "bg-[#aae3b0]" :"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "veg"?null:"veg")} >🥬 Veg</button>
                <button className={`text-md px-2 py-1 border-gray-400 rounded-lg border ${selected === "Nonveg"? "bg-[#f2ccc2]":"bg-[#ebf0ef]" }`} onClick={()=> setSelected(selected === "Nonveg"?null:"Nonveg")}>🍗 Non Veg</button>               
             </div>   
