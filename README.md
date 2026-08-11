@@ -85,7 +85,6 @@ Uses **conditional rendering** to switch between:
 - ✨ Shimmer loading effects
 - 🔝 Scroll-to-top on route change
 - 🎨 Hidden scrollbar UI where required
-- 🖥 Desktop Screen Guard (App optimized for desktop view)
 - 🔄 Dynamic UI rendering based on API data
 
 ---
