@@ -37,7 +37,7 @@ export default  function RestCollectionOption () {
         return(
             <>
              <div>
-                <div className="w-[76%] mx-auto mt-15">
+                <div className= "w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 sm:mt-15">
                     <div className="text-4xl font-bold mb-3">{collectionData?.data?.cards[0]?.card?.card?.title}</div>
                     <div className="text-xl text-gray-900 mb-3">{collectionData?.data?.cards[0]?.card?.card?.description}</div>
                     <div>
@@ -45,7 +45,7 @@ export default  function RestCollectionOption () {
                     </div>
                     <div className="text-2xl font-bold">{collectionData?.data?.cards[0]?.card?.card?.count} to explore</div>
                 </div>
-                <div className="w-[76%] flex flex-wrap mx-auto mt-5 gap-5 justify-center">
+                <div className= "w-full max-w-7xl flex flex-wrap mx-auto px-4 sm:px-6 lg:px-8 mt-5 gap-5 justify-center">
                     {
                         foodData?.map((item)=><RestaurantCard key={item?.card?.card?.info?.id} restInfo={item?.card?.card}></RestaurantCard>)
                     }
