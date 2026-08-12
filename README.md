@@ -199,7 +199,6 @@ http://localhost:3000
 
 # 📈 Future Improvements
 
-- Mobile responsive design
 - Checkout workflow
 - Authentication system
 - Persistent cart storage
