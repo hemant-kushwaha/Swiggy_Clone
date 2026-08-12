@@ -2,8 +2,8 @@ export default function Footer () {
     return(
         <>
         <footer className="bg-[#F0F0F5] w-full p-5">
-            <div className="w-[65%] mx-auto container mt-8 mb-20 flex gap-10 text-[#02070f99]">
-                <div className="mr-[5%]">
+            <div className="w-full max-w-6xl mx-auto mt-8 mb-12 px-4 sm:px-6 lg:px-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-10 text-[#02070f99]">
+                <div>
                     <img src="https://media-assets.swiggy.com/portal/testing/seo-home/Group.svg" alt="swiggy logo" />
                     <p className="text-sm mt-2">© 2025 Swiggy Limited</p>                    
                 </div>
@@ -80,8 +80,8 @@ export default function Footer () {
             </div>
             <hr  className="w-[90%] mx-auto bg-[#02070f99]"/>
 
-            <div className="flex items-center mt-8 gap-10 justify-center mx-auto container">
-                <div className="text-[24px] text-black font-semibold ">For better experience, download the Swiggy app now</div>
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-5 mt-8 px-4 text-center">
+                <div className="text-lg sm:text-xl lg:text-2xl text-black font-semibold ">For better experience, download the Swiggy app now</div>
                 <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-AppStore_lg30tv"></img>
                 <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-GooglePlay_1_zixjxl"></img>
             </div>
