@@ -11,7 +11,7 @@ export default function GroceryCitiesOption (){
     const visiblecities = ShowMore ? cityGroceryData : cityGroceryData.slice(0,initial_count);
 
     return(
-        <div className="w-[65%] mx-auto container mt-20 mb-20">
+        <div className="w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 sm:mt-20 mb-12 sm:mb-20">
                     <p className="text-2xl font-semibold">Cities with grocery delivery</p>
                     <div className="flex flex-wrap gap-5 mt-5">
                         {visiblecities.map((citydata)=><GroceryCitiesCard key={citydata?.text} citydata={citydata}></GroceryCitiesCard>)}
