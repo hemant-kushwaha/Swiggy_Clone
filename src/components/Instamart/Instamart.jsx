@@ -8,7 +8,7 @@ export default function Instamart (){
     return(
         <>
         <InstaHeader></InstaHeader>
-        <div className="w-[65%] mx-auto mb-20">
+        <div className="w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12 sm:mb-20">
             <img className="mb-10" src="https://instamart-media-assets.swiggy.com/swiggy/image/upload/MERCHANDISING_BANNERS/IMAGES/MERCH/2026/1/20/041a3871-399e-47fb-8f4c-f62f41bd66b9_33LowestpricesacrossLucknow.png" alt="" />
             <CardImage card={Card0} title={"Lowest Prices"}></CardImage>
             <CardWithCart card={Card1} title={"Hot Deals"}></CardWithCart>
