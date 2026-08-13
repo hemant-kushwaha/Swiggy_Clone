@@ -15,7 +15,7 @@ export default function DineCity (){
 
 
     return(
-        <div className="w-[65%] mx-auto container mt-20 mb-20">
+        <div className="w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mx-auto container mt-20 mb-20">
                     <p className="text-2xl font-semibold">Top Dining Out Cuisine Restaurants Near Me</p>
                     <div className="flex flex-wrap gap-5 mt-8">
                         {visiblecities.map((citydata)=><FoodCitiesCard key={citydata?.text} citydata={citydata}></FoodCitiesCard>)}
